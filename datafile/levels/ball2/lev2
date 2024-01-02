@@ -1,0 +1,89 @@
+[name]
+Breaking Tower
+[color]
+165, 73, 117
+[time]
+750
+[robot]
+1
+[data]
+79
+                |
+ bbbbbbbbb      |
+         b      |
+ b  b b  b      |
+ b   2 2bb      |
+vbbbbbbbTb      |
+       bTb      |
+       bTb      |
+       bbb      |
+                |
+                |
+                |
+^             b |
+-           b   |
+                |
+        b  b    |
+       b        |
+          b     |
+  #   b   #     |
+  # b  bbb#     |
+  #b b    #     |
+  b       bb    |
+  #       # b   |
+  #       #   b |
+b #       #     |
+ bb       b     |
+      v bb      |
+                |
+                |
+ 7              |
+                |
+                |
+      ^         |
+b b b -   v b b |
+                |
+ b b         b b|
+                |
+                |
+                |
+                |
+                |
+                |
+                |
+                |
+                |
+          ^   4 |
+          -b    |
+  b         b   |
+             bb |
+   b          bb|
+b   b b        b|
+ b bbb   v      |
+       b        |
+                |
+         ^      |
+      b  -  b   |
+b   b b b       |
+    bbbb  5     |
+b  b         b  |
+  b          b b|
+bb          b bb|
+         b bb   |
+        v b     |
+     44         |
+                |
+                |
+             b  |
+   #    ^  #    |
+   #bb b-  #b   |
+   #  b    #b   |
+   b  b 6  b    |
+     4b         |
+      b   b     |
+      b         |
+   bb    b      |
+                |
+ bb     b       |
+b              b|
+    bbbb        |

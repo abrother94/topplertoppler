@@ -1,0 +1,941 @@
+# Czech translation of Tower Toppler.
+# Copyright (C) YEAR Andreas Röver
+# This file is distributed under the same license as the toppler package.
+# Miroslav Kure <kurem@debian.cz>, 2006, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: toppler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-02 05:45+0000\n"
+"PO-Revision-Date: 2022-02-02 17:22+0100\n"
+"Last-Translator: Miroslav Kure <kurem@debian.cz>\n"
+"Language-Team: Czech <debian-l10n-czech@lists.debian.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/screen.cc:2016
+msgid "REC"
+msgstr "REC"
+
+#: src/screen.cc:2017
+msgid "DEMO"
+msgstr "DEMO"
+
+#: src/game.cc:82
+msgid "You are entering the"
+msgstr "Vstupujete do"
+
+#: src/game.cc:87
+msgid "Nameless Tower"
+msgstr "Bezejmenná věž"
+
+#: src/game.cc:90
+msgid "Password:    "
+msgstr "Heslo:   "
+
+#: src/game.cc:294
+msgid "Time over"
+msgstr "Čas vypršel"
+
+#: src/game.cc:308 src/game.cc:313
+msgid "Time:"
+msgstr "Čas:"
+
+#: src/game.cc:309 src/game.cc:314
+msgid "Technique:"
+msgstr "Technika:"
+
+#: src/game.cc:310 src/game.cc:315
+msgid "Extra:"
+msgstr "Extra:"
+
+#: src/game.cc:311
+msgid "Lifes:"
+msgstr "Životy:"
+
+#: src/game.cc:467 src/bonus.cc:110
+msgid "Pause"
+msgstr "Pauza"
+
+#: src/leveledit.cc:103 src/menu.cc:978
+msgid "Quit"
+msgstr "Konec"
+
+#: src/leveledit.cc:103
+msgid "Move up"
+msgstr "Posun nahoru"
+
+#: src/leveledit.cc:103
+msgid "Move down"
+msgstr "Posun dolů"
+
+#: src/leveledit.cc:103
+msgid "Move left"
+msgstr "Posun vlevo"
+
+#: src/leveledit.cc:104
+msgid "Move right"
+msgstr "Posun vpravo"
+
+#: src/leveledit.cc:104
+msgid "Insert row"
+msgstr "Vloží řádek"
+
+#: src/leveledit.cc:104
+msgid "Delete row"
+msgstr "Smaže řádek"
+
+#: src/leveledit.cc:104
+msgid "Rotate 180"
+msgstr "Rotuje o 180"
+
+#: src/leveledit.cc:105
+msgid "Put space"
+msgstr "Umístí mezeru"
+
+#: src/leveledit.cc:105
+msgid "Put step"
+msgstr "Umístí schod"
+
+#: src/leveledit.cc:105
+msgid "Put vanisher"
+msgstr "Umístí mizící kachli"
+
+#: src/leveledit.cc:105
+msgid "Put slider left"
+msgstr "Umístí kachli klouzající vlevo"
+
+#: src/leveledit.cc:106
+msgid "Put slider right"
+msgstr "Umístí kachli klouzající vpravo"
+
+#: src/leveledit.cc:107
+msgid "Put door"
+msgstr "Umístí bránu"
+
+#: src/leveledit.cc:107
+msgid "Put goal"
+msgstr "Umístí cíl"
+
+#: src/leveledit.cc:107
+msgid "Check tower"
+msgstr "Zkontroluje věž"
+
+#: src/leveledit.cc:107
+msgid "Put rolling ball"
+msgstr "Umístí valící se míč"
+
+#: src/leveledit.cc:108
+msgid "Put jumping ball moving"
+msgstr "Umístí pohybující se skákající míč"
+
+#: src/leveledit.cc:108
+msgid "Put jumping ball"
+msgstr "Umístí skákající míč"
+
+#: src/leveledit.cc:108
+msgid "Put robot up down"
+msgstr "Umístí robota nahoru dolů"
+
+#: src/leveledit.cc:108
+msgid "Put robot up down fast"
+msgstr "Umístí rychlého robota nahoru dolů"
+
+#: src/leveledit.cc:109
+msgid "Put robot left right"
+msgstr "Umístí robota vlevo vpravo"
+
+#: src/leveledit.cc:109
+msgid "Put robot left right fast"
+msgstr "Umístí rychlého robota vlevo vpravo"
+
+#: src/leveledit.cc:109
+msgid "Put lift"
+msgstr "Umístí zdviž"
+
+#: src/leveledit.cc:109
+msgid "Lift middle stop"
+msgstr "Střední zastávka zdviže"
+
+#: src/leveledit.cc:110
+msgid "Lift top stop"
+msgstr "Horní zastávka zdviže"
+
+#: src/leveledit.cc:110
+msgid "Put pillar"
+msgstr "Umístí sloup"
+
+#: src/leveledit.cc:110
+msgid "Put box"
+msgstr "Umístí krabici"
+
+#: src/leveledit.cc:110
+msgid "Load tower"
+msgstr "Nahraje věž"
+
+#: src/leveledit.cc:111
+msgid "Save tower"
+msgstr "Uloží věž"
+
+#: src/leveledit.cc:111
+msgid "Test tower"
+msgstr "Otestuje věž"
+
+#: src/leveledit.cc:111
+msgid "Set tower color"
+msgstr "Nastaví barvu věže"
+
+#: src/leveledit.cc:111
+msgid "Increase time"
+msgstr "Přidá čas"
+
+#: src/leveledit.cc:112
+msgid "Decrease time"
+msgstr "Ubere čas"
+
+#: src/leveledit.cc:112
+msgid "Create mission"
+msgstr "Vytvoří misi"
+
+#: src/leveledit.cc:112
+msgid "Move page up"
+msgstr "O stranu nahoru"
+
+#: src/leveledit.cc:112
+msgid "Move page down"
+msgstr "O stranu dolů"
+
+#: src/leveledit.cc:113
+msgid "Go to start"
+msgstr "Jde na začátek"
+
+#: src/leveledit.cc:113
+msgid "Show this help"
+msgstr "Nápověda"
+
+#: src/leveledit.cc:113
+msgid "Name the tower"
+msgstr "Jméno věže"
+
+#: src/leveledit.cc:113
+msgid "Set tower time"
+msgstr "Nastaví čas"
+
+#: src/leveledit.cc:114
+msgid "Record demo"
+msgstr "Nahraje demo"
+
+#: src/leveledit.cc:114
+msgid "Play demo"
+msgstr "Přehraje demo"
+
+#: src/leveledit.cc:114
+msgid "Adjust tower height"
+msgstr "Upraví výšku věže"
+
+#: src/leveledit.cc:114
+msgid "Go to end"
+msgstr "Jde na konec"
+
+#: src/leveledit.cc:115
+msgid "Cut row"
+msgstr "Vyjme řadu"
+
+#: src/leveledit.cc:115
+msgid "Paste row"
+msgstr "Vloží řadu"
+
+#: src/leveledit.cc:115
+msgid "Change robot type"
+msgstr "Změní typ robota"
+
+#: src/leveledit.cc:191
+msgid "Tower changed, really quit"
+msgstr "Věž se změnila, opravdu skončit"
+
+#: src/leveledit.cc:201
+msgid "Tower changed, really load"
+msgstr "Věž se změnila, opravdu nahrát"
+
+#: src/leveledit.cc:218
+msgid "Red"
+msgstr "Červená"
+
+#: src/leveledit.cc:218
+msgid "Green"
+msgstr "Zelená"
+
+#: src/leveledit.cc:218
+msgid "Blue"
+msgstr "Modrá"
+
+#: src/leveledit.cc:227
+msgid "Tower Color"
+msgstr "Barva věže"
+
+#: src/leveledit.cc:309
+msgid "No problems found"
+msgstr "Žádné problémy nenalezeny"
+
+#: src/leveledit.cc:310
+msgid "No starting step"
+msgstr "Chybí počáteční bod"
+
+#: src/leveledit.cc:311
+msgid "Start is blocked"
+msgstr "Start je blokován"
+
+#: src/leveledit.cc:312
+msgid "Unknown block"
+msgstr "Neznámý blok"
+
+#: src/leveledit.cc:313
+msgid "No elevator stop"
+msgstr "Chybí zarážka výtahu"
+
+#: src/leveledit.cc:314
+msgid "Elevator is blocked"
+msgstr "Výtah je blokován"
+
+#: src/leveledit.cc:315
+msgid "No opposing doorway"
+msgstr "Chybí protilehlá brána"
+
+#: src/leveledit.cc:316
+msgid "Broken doorway"
+msgstr "Porušená brána"
+
+#: src/leveledit.cc:317
+msgid "No exit"
+msgstr "Chybí východ"
+
+#: src/leveledit.cc:318
+msgid "Exit is unreachable"
+msgstr "Východ je nedosažitelný"
+
+#: src/leveledit.cc:319
+msgid "Not enough time"
+msgstr "Nedostatek času"
+
+#: src/leveledit.cc:320
+msgid "Tower is too short"
+msgstr "Věž je příliš krátká"
+
+#: src/leveledit.cc:321
+msgid "Tower has no name"
+msgstr "Věž nemá jméno"
+
+#: src/leveledit.cc:329
+msgid "Tower check:"
+msgstr "Kontrola věže:"
+
+#: src/leveledit.cc:355 src/leveledit.cc:370 src/leveledit.cc:391
+msgid "Mission creation"
+msgstr "Vytváření mise"
+
+#: src/leveledit.cc:356
+msgid "enter mission name"
+msgstr "zadejte jméno mise"
+
+#: src/leveledit.cc:357
+msgid "empty to abort"
+msgstr "prázdné pro přerušení"
+
+#: src/leveledit.cc:372
+msgid "could not create file"
+msgstr "nemohu vytvořit soubor"
+
+#: src/leveledit.cc:373
+msgid "aborting"
+msgstr "přerušuji"
+
+#: src/leveledit.cc:392
+msgid "enter name of"
+msgstr "zadejte jméno"
+
+#: src/leveledit.cc:394
+msgid "tower no "
+msgstr "věž č. "
+
+#: src/leveledit.cc:414
+msgid "Editor Key Help"
+msgstr "Klávesy v editoru"
+
+#: src/leveledit.cc:529
+msgid "cut#"
+msgstr "řádků"
+
+#: src/leveledit.cc:567
+#, c-format
+msgid "key: %s, char: %c, action: %i\n"
+msgstr "klávesa: %s, znak: %c, akce: %i\n"
+
+#: src/leveledit.cc:699
+msgid "Load tower:"
+msgstr "Nahrát věž:"
+
+#: src/leveledit.cc:718
+msgid "Save tower:"
+msgstr "Uložit věž:"
+
+#: src/leveledit.cc:772
+msgid "No recorded demo"
+msgstr "Žádné nahrané demo"
+
+#: src/leveledit.cc:813
+msgid "Enter tower time:"
+msgstr "Zadejte čas věže:"
+
+#: src/leveledit.cc:827
+msgid "Adjust tower height:"
+msgstr "Upravte výšku věže:"
+
+#: src/leveledit.cc:907
+msgid "Name the tower:"
+msgstr "Jméno věže:"
+
+#: src/main.cc:37
+#, c-format
+msgid ""
+"\n"
+"\tOptions:\n"
+"\n"
+"  -f\tEnable fullscreen mode\n"
+"  -s\tSilence, disable all sound\n"
+"  -dX\tSet debug level to X  (default: %i)\n"
+msgstr ""
+"\n"
+"\tVolby:\n"
+"\n"
+"  -f\tPovolí celoobrazovkový režim\n"
+"  -s\tTicho, zakáže veškeré zvuky\n"
+"  -dX\tnastaví ladicí režim na X  (výchozí: %i)\n"
+
+#: src/main.cc:47
+#, c-format
+msgid "Debug level is now %c.\n"
+msgstr "Ladicí režim je nyní %c.\n"
+
+#: src/main.cc:49
+#, c-format
+msgid "Illegal debug level value, using default.\n"
+msgstr "Chybná ladicí úroveň, používám výchozí.\n"
+
+#: src/main.cc:98
+#, c-format
+msgid "Nebulus version %s"
+msgstr "Nebulus verze %s"
+
+#: src/main.cc:113
+#, c-format
+msgid "Thanks for playing!\n"
+msgstr "Děkujeme za hraní!\n"
+
+#: src/menusys.cc:380
+msgid "Press fire"
+msgstr "Stiskněte střelbu"
+
+#: src/menusys.cc:380
+msgid "Press space"
+msgstr "Stiskněte mezerník"
+
+#: src/menusys.cc:539
+msgid "Yes"
+msgstr "Ano"
+
+#: src/menusys.cc:549
+msgid "No"
+msgstr "Ne"
+
+#: src/keyb.cc:159
+#, c-format
+msgid "Wheee!!\n"
+msgstr "Jééé!!\n"
+
+#: src/menu.cc:70
+msgid "Extra Life"
+msgstr "Další život"
+
+#: src/menu.cc:75
+msgid "+200 Points"
+msgstr "+200 bodů"
+
+#: src/menu.cc:93
+msgid "Up"
+msgstr "Nahoru"
+
+#: src/menu.cc:93
+msgid "Down"
+msgstr "Dolů"
+
+#: src/menu.cc:93
+msgid "Left"
+msgstr "Vlevo"
+
+#: src/menu.cc:93
+msgid "Right"
+msgstr "Vpravo"
+
+#: src/menu.cc:93
+msgid "Fire"
+msgstr "Střelba"
+
+#: src/menu.cc:143
+msgid "Password: "
+msgstr "Heslo: "
+
+#: src/menu.cc:147
+msgid "Status on top"
+msgstr "Stav nahoře"
+
+#: src/menu.cc:162
+msgid "Lives: "
+msgstr "Životy: "
+
+#: src/menu.cc:188
+msgid "Game Speed:"
+msgstr "Rychlost hry: "
+
+#: src/menu.cc:212
+msgid "Bonus"
+msgstr "Bonus"
+
+#: src/menu.cc:227
+msgid "Game Options"
+msgstr "Nastavení hry"
+
+#: src/menu.cc:238 src/menu.cc:258 src/menu.cc:487 src/menu.cc:511
+#: src/menu.cc:535 src/menu.cc:683
+msgid "Back"
+msgstr "Zpět"
+
+#: src/menu.cc:249 src/menu.cc:264
+msgid "Redefine Keys"
+msgstr "Předefinovat klávesy"
+
+#: src/menu.cc:269
+msgid "Fullscreen"
+msgstr "Celá obrazovka"
+
+#: src/menu.cc:287
+msgid "Sounds"
+msgstr "Zvuky"
+
+#: src/menu.cc:313
+msgid "Music"
+msgstr "Hudba"
+
+#: src/menu.cc:356
+msgid "Font alpha"
+msgstr "Alfa u fontů"
+
+#: src/menu.cc:373
+msgid "Sprites alpha"
+msgstr "Alfa u spritů"
+
+#: src/menu.cc:390
+msgid "Scroller alpha"
+msgstr "Alfa u posunu"
+
+#: src/menu.cc:407
+msgid "Shadowing"
+msgstr "Stínování"
+
+#: src/menu.cc:440
+msgid "Nonreflecting waves"
+msgstr "Vlny bez odrazu"
+
+#: src/menu.cc:441
+msgid "Simple waves"
+msgstr "Jednoduché vlny"
+
+#: src/menu.cc:442
+msgid "Expensive waves"
+msgstr "Náročné vlny"
+
+#: src/menu.cc:443
+msgid "Error"
+msgstr "Chyba"
+
+#: src/menu.cc:452
+msgid "Complete Scroller"
+msgstr "Kompletní posuny"
+
+#: src/menu.cc:453
+msgid "2 layers Scoller"
+msgstr "2 vrstvé posuny"
+
+#: src/menu.cc:458
+msgid "Shadows"
+msgstr "Stíny"
+
+#: src/menu.cc:474
+msgid "Alpha Options"
+msgstr "Nastavení alfy"
+
+#: src/menu.cc:497
+msgid "Graphics"
+msgstr "Grafika"
+
+#: src/menu.cc:521
+msgid "Options"
+msgstr "Volby"
+
+#: src/menu.cc:657
+msgid "HighScores"
+msgstr "Nejvyšší skóre"
+
+#: src/menu.cc:661
+msgid "Scores for"
+msgstr "Skóre pro "
+
+#: src/menu.cc:685
+msgid "OK"
+msgstr "OK"
+
+#: src/menu.cc:701
+msgid ""
+"Congratulations! You are\n"
+"probably good enough to\n"
+"enter the highscore table!"
+msgstr ""
+"Gratulujeme! Jste\n"
+"dobrý i na umístění\n"
+"v tabulce nejlepších!"
+
+#: src/menu.cc:726
+msgid "Please enter your name"
+msgstr "Zadejte své jméno"
+
+#: src/menu.cc:775
+msgid ""
+"This mission contains\n"
+"unknown building blocks.\n"
+"You probably need a new\n"
+"version of Tower Toppler.\n"
+"Do you want to continue?"
+msgstr ""
+"Tato mise obsahuje\n"
+"neznámé stavební bloky.\n"
+"Nejspíše potřebuje novější\n"
+"verzi Tower Toppler.\n"
+"Chcete pokračovat?"
+
+#: src/menu.cc:832
+msgid "Hunt the Fish"
+msgstr "Ulovte rybu"
+
+#: src/menu.cc:855
+msgid "Start:"
+msgstr "Start:"
+
+#: src/menu.cc:864
+msgid "Highscores"
+msgstr "Nejvyšší skóre"
+
+#: src/menu.cc:874
+msgid "Level Editor"
+msgstr "Editor úrovní"
+
+#: src/menu.cc:927
+msgid "Return to Game"
+msgstr "Návrat do hry"
+
+#: src/menu.cc:936
+msgid "Quit Game"
+msgstr "Ukončit hru"
+
+#: src/menu.cc:943
+msgid "DEBUG MENU"
+msgstr "LADICÍ MENU"
+
+#: src/menu.cc:948
+msgid "Back to Game"
+msgstr "Zpět do hry"
+
+#: _build/nms_m1.txt:1
+msgid "Mission 1"
+msgstr "1. mise"
+
+#: _build/nms_m1.txt:3
+msgid "Tower of eyes"
+msgstr "Věž očí"
+
+#: _build/nms_m1.txt:5
+msgid "Realm of robots"
+msgstr "Říše robotů"
+
+#: _build/nms_m1.txt:7
+msgid "Trap of tricks"
+msgstr "V pasti triků"
+
+#: _build/nms_m1.txt:9
+msgid "Slippery slide"
+msgstr "Klouzavá skluzavka"
+
+#: _build/nms_m1.txt:11
+msgid "Broken path"
+msgstr "Narušená cesta"
+
+#: _build/nms_m1.txt:13
+msgid "Swimmers delight"
+msgstr "Plavecký ráj"
+
+#: _build/nms_m1.txt:15
+msgid "Nasty one"
+msgstr "Ošklivá"
+
+#: _build/nms_m1.txt:17
+msgid "Edge of doom"
+msgstr "Hrana osudu"
+
+#: _build/nms_m2.txt:1
+msgid "Mission 2"
+msgstr "2. mise"
+
+#: _build/nms_m2.txt:3
+msgid "Blink of the eye"
+msgstr "Mrknutí oka"
+
+#: _build/nms_m2.txt:5
+msgid "Robot's heaven"
+msgstr "Nebe plné robotů"
+
+#: _build/nms_m2.txt:7
+msgid "Trick of traps"
+msgstr "Lesti pastí"
+
+#: _build/nms_m2.txt:9
+msgid "No man's land"
+msgstr "Země nikoho"
+
+#: _build/nms_m2.txt:11
+msgid "Oh, *******!!"
+msgstr "Ah *******!!"
+
+#: _build/nms_m2.txt:13
+msgid "Riddle of reason"
+msgstr "Hádanka důvodu"
+
+#: _build/nms_m2.txt:15
+msgid "Maze of mistakes"
+msgstr "Labyrint chyb"
+
+#: _build/nms_m2.txt:17
+msgid "Last trump"
+msgstr "Poslední trumf"
+
+#: _build/nms_ball1.txt:1
+msgid "Ball 1"
+msgstr "Ball 1"
+
+#: _build/nms_ball1.txt:3
+msgid "Run and don't stop"
+msgstr "Utíkej a neohlížej se"
+
+#: _build/nms_ball1.txt:5
+msgid "Watch your step"
+msgstr "Pozor kam šlapeš"
+
+#: _build/nms_ball1.txt:7
+msgid "Short, but deadly"
+msgstr "Krátká, ale smrtící"
+
+#: _build/nms_ball1.txt:9
+msgid "The maddening"
+msgstr "Bláznění"
+
+#: _build/nms_ball1.txt:11
+msgid "Doom at every step"
+msgstr "Osud na každém kroku"
+
+#: _build/nms_ball1.txt:13
+msgid "Enemies everywhere"
+msgstr "Všude samí nepřátelé"
+
+#: _build/nms_ball1.txt:15
+msgid "You will loose"
+msgstr "Prohraješ"
+
+#: _build/nms_ball1.txt:17
+msgid "Mind destroyer"
+msgstr "Zhouba mysli"
+
+#: _build/nms_ball2.txt:1
+msgid "Ball 2"
+msgstr "Ball 2"
+
+#: _build/nms_ball2.txt:3
+msgid "Mind Trap"
+msgstr "Myšlenková past"
+
+#: _build/nms_ball2.txt:5
+msgid "Breaking Tower"
+msgstr "Bortící se věž"
+
+#: _build/nms_ball2.txt:7
+msgid "Great Fall"
+msgstr "Velký pád"
+
+#: _build/nms_ball2.txt:9
+msgid "Tower of Intrigue"
+msgstr "Věž intrik"
+
+#: _build/nms_ball2.txt:11
+msgid "Massacre"
+msgstr "Masakr"
+
+#: _build/nms_ball2.txt:13
+msgid "Bouncing Murders"
+msgstr "Nestoudné vraždy"
+
+#: _build/nms_ball2.txt:15
+msgid "Trial and error"
+msgstr "Pokus a omyl"
+
+#: _build/nms_ball2.txt:17
+msgid "Tower of Pure Evil"
+msgstr "Věž čistého zla"
+
+#: _build/nms_ball3.txt:1
+msgid "Ball 3"
+msgstr "Ball 3"
+
+#: _build/nms_ball3.txt:3
+msgid "Annoying Tower"
+msgstr "Protivná věž"
+
+#: _build/nms_ball3.txt:5
+msgid "Cave of Failure"
+msgstr "Jeskyně selhání"
+
+#: _build/nms_ball3.txt:7
+msgid "Dividing path"
+msgstr "Rozdělené cesty"
+
+#: _build/nms_ball3.txt:9
+msgid "No Way Out?"
+msgstr "Není úniku?"
+
+#: _build/nms_ball3.txt:11
+msgid "Trap"
+msgstr "Past"
+
+#: _build/nms_ball3.txt:13
+msgid "Tower of Mystery"
+msgstr "Tajemná věž"
+
+#: _build/nms_ball3.txt:15
+msgid "Slip ... and die"
+msgstr "Uklouzni ... a zemři"
+
+#: _build/nms_ball3.txt:17
+msgid "Mission Impossible"
+msgstr "Mission Impossible"
+
+#: _build/nms_abc.txt:1
+msgid "ABC Towers"
+msgstr "Věže ABC"
+
+#: _build/nms_abc.txt:3
+msgid "Slices"
+msgstr "Plátky"
+
+#: _build/nms_abc.txt:5
+msgid "Corridors"
+msgstr "Chodby"
+
+#: _build/nms_abc.txt:7
+msgid "Higher Ground"
+msgstr "Místo nahoře"
+
+#: _build/nms_abc.txt:9
+msgid "No Icing"
+msgstr "Bez námrazy"
+
+#: _build/nms_abc.txt:11
+msgid "Three Layers"
+msgstr "Tři vrstvy"
+
+#: _build/nms_abc.txt:13
+msgid "Two Ways"
+msgstr "Dvě cesty"
+
+#: _build/nms_abc.txt:15
+msgid "Spiral"
+msgstr "Spirála"
+
+#: _build/nms_abc.txt:17
+msgid "Skygazer"
+msgstr "Okulár"
+
+#: _build/nms_pasi2.txt:1
+msgid "Pasis 2 Towers"
+msgstr "Dvě věže"
+
+#: _build/nms_pasi2.txt:3
+msgid "Ventilation Shafts"
+msgstr "Ventilační šachty"
+
+#: _build/nms_pasi2.txt:5
+msgid "Tower 2"
+msgstr "Věž 2"
+
+#: _build/nms_david1.txt:1
+msgid "Challenge 1"
+msgstr "Výzva 1"
+
+#: _build/nms_david1.txt:3
+msgid "Difficult jumps!"
+msgstr "Náročné skoky!"
+
+#: _build/nms_david1.txt:5
+msgid "Washout"
+msgstr "Pohroma"
+
+#: _build/nms_david1.txt:7
+msgid "Climbing and tricks"
+msgstr "Stoupání a úskoky"
+
+#: _build/nms_david1.txt:9
+msgid "Watch the robots"
+msgstr "Pozor na roboty"
+
+#: _build/nms_david1.txt:11
+msgid "Two Halves"
+msgstr "Dvě poloviny"
+
+#: _build/nms_david1.txt:13
+msgid "Turning up the heat"
+msgstr "Zatopte pod kotli"
+
+#: _build/nms_david1.txt:15
+msgid "Confusing"
+msgstr "Zmatená"
+
+#: _build/nms_david1.txt:17
+msgid "Short but dangerous"
+msgstr "Krátká a nebezpečná"
+
+#: _build/nms_david2.txt:1
+msgid "Challenge 2"
+msgstr "Výzva 2"
+
+#: _build/nms_david2.txt:3
+msgid "Waves"
+msgstr "Vlny"
+
+#: _build/nms_david2.txt:5
+msgid "Dragon tower"
+msgstr "Dračí věž"
+
+#: _build/nms_david2.txt:7
+msgid "Hullabaloo"
+msgstr "Kravál"
+
+#: _build/nms_david2.txt:9
+msgid "Labyrinth"
+msgstr "Labyrint"

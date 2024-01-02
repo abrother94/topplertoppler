@@ -1,0 +1,946 @@
+# Swedish translation of toppler.
+# This file is distributed under the same license as the PACKAGE package.
+# Daniel Nylander <po@danielnylander.se>, 2005
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: toppler 1.1.1-1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-02 05:45+0000\n"
+"PO-Revision-Date: 2005-12-30 03:40+0100\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/screen.cc:2016
+msgid "REC"
+msgstr "REC"
+
+#: src/screen.cc:2017
+msgid "DEMO"
+msgstr "DEMO"
+
+#: src/game.cc:82
+msgid "You are entering the"
+msgstr "Du kommer nu till"
+
+#: src/game.cc:87
+msgid "Nameless Tower"
+msgstr "Ej namngivet torn"
+
+#: src/game.cc:90
+msgid "Password:    "
+msgstr "Lösenord:   "
+
+#: src/game.cc:294
+msgid "Time over"
+msgstr "Slut på tid"
+
+#: src/game.cc:308 src/game.cc:313
+msgid "Time:"
+msgstr "Tid:"
+
+#: src/game.cc:309 src/game.cc:314
+msgid "Technique:"
+msgstr "Teknik:"
+
+#: src/game.cc:310 src/game.cc:315
+msgid "Extra:"
+msgstr "Extra:"
+
+#: src/game.cc:311
+msgid "Lifes:"
+msgstr "Liv:"
+
+#: src/game.cc:467 src/bonus.cc:110
+msgid "Pause"
+msgstr "Gör paus"
+
+#: src/leveledit.cc:103 src/menu.cc:978
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/leveledit.cc:103
+msgid "Move up"
+msgstr "Gå upp"
+
+#: src/leveledit.cc:103
+msgid "Move down"
+msgstr "Gå ner"
+
+#: src/leveledit.cc:103
+msgid "Move left"
+msgstr "Gå vänster"
+
+#: src/leveledit.cc:104
+msgid "Move right"
+msgstr "Gå höger"
+
+#: src/leveledit.cc:104
+msgid "Insert row"
+msgstr "Infoga rad"
+
+#: src/leveledit.cc:104
+msgid "Delete row"
+msgstr "Ta bort rad"
+
+#: src/leveledit.cc:104
+msgid "Rotate 180"
+msgstr "Rotera 180"
+
+#: src/leveledit.cc:105
+msgid "Put space"
+msgstr "Sätt in tomrum"
+
+#: src/leveledit.cc:105
+msgid "Put step"
+msgstr "Sätt in steg"
+
+#: src/leveledit.cc:105
+msgid "Put vanisher"
+msgstr "Sätt in lömskt block"
+
+#: src/leveledit.cc:105
+msgid "Put slider left"
+msgstr "Sätt in glidare vänster"
+
+#: src/leveledit.cc:106
+msgid "Put slider right"
+msgstr "Sätt in glidare höger"
+
+#: src/leveledit.cc:107
+msgid "Put door"
+msgstr "Sätt in dörr"
+
+#: src/leveledit.cc:107
+msgid "Put goal"
+msgstr "Sätt in mål"
+
+#: src/leveledit.cc:107
+msgid "Check tower"
+msgstr "Kontrollera torn"
+
+#: src/leveledit.cc:107
+msgid "Put rolling ball"
+msgstr "Sätt in rullande boll"
+
+#: src/leveledit.cc:108
+msgid "Put jumping ball moving"
+msgstr "Sätt in hoppande flyttande boll"
+
+#: src/leveledit.cc:108
+msgid "Put jumping ball"
+msgstr "Sätt in hoppande boll"
+
+#: src/leveledit.cc:108
+msgid "Put robot up down"
+msgstr "Sätt in robot upp ned"
+
+#: src/leveledit.cc:108
+msgid "Put robot up down fast"
+msgstr "Sätt in robot upp ned snabb"
+
+#: src/leveledit.cc:109
+msgid "Put robot left right"
+msgstr "Sätt in robot vänster höger"
+
+#: src/leveledit.cc:109
+msgid "Put robot left right fast"
+msgstr "Sätt in robot vänster höger snabb"
+
+#: src/leveledit.cc:109
+msgid "Put lift"
+msgstr "Sätt in hiss"
+
+#: src/leveledit.cc:109
+msgid "Lift middle stop"
+msgstr "Hiss stoppar mitten"
+
+#: src/leveledit.cc:110
+msgid "Lift top stop"
+msgstr "Hiss stoppar toppen"
+
+#: src/leveledit.cc:110
+msgid "Put pillar"
+msgstr "Sätt in pelare"
+
+#: src/leveledit.cc:110
+msgid "Put box"
+msgstr "Sätt in låda"
+
+#: src/leveledit.cc:110
+msgid "Load tower"
+msgstr "Läs in torn"
+
+#: src/leveledit.cc:111
+msgid "Save tower"
+msgstr "Spara torn"
+
+#: src/leveledit.cc:111
+msgid "Test tower"
+msgstr "Testa torn"
+
+#: src/leveledit.cc:111
+msgid "Set tower color"
+msgstr "Ställ in färg på torn"
+
+#: src/leveledit.cc:111
+msgid "Increase time"
+msgstr "Öka tid"
+
+#: src/leveledit.cc:112
+msgid "Decrease time"
+msgstr "Minska tid"
+
+#: src/leveledit.cc:112
+msgid "Create mission"
+msgstr "Skapa uppdrag"
+
+#: src/leveledit.cc:112
+msgid "Move page up"
+msgstr "Flytta sida upp"
+
+#: src/leveledit.cc:112
+msgid "Move page down"
+msgstr "Flytta sida ned"
+
+#: src/leveledit.cc:113
+msgid "Go to start"
+msgstr "Gå till start"
+
+#: src/leveledit.cc:113
+msgid "Show this help"
+msgstr "Visa denna hjälp"
+
+#: src/leveledit.cc:113
+msgid "Name the tower"
+msgstr "Namnge torn"
+
+#: src/leveledit.cc:113
+msgid "Set tower time"
+msgstr "Ställ in tid"
+
+#: src/leveledit.cc:114
+msgid "Record demo"
+msgstr "Spela in demo"
+
+#: src/leveledit.cc:114
+msgid "Play demo"
+msgstr "Spela demo"
+
+#: src/leveledit.cc:114
+msgid "Adjust tower height"
+msgstr "Justera tornets höjd"
+
+#: src/leveledit.cc:114
+msgid "Go to end"
+msgstr "Gå till slutet"
+
+#: src/leveledit.cc:115
+msgid "Cut row"
+msgstr "Klipp ut rad"
+
+#: src/leveledit.cc:115
+msgid "Paste row"
+msgstr "Klistra in rad"
+
+#: src/leveledit.cc:115
+msgid "Change robot type"
+msgstr "Ändra robottyp"
+
+#: src/leveledit.cc:191
+msgid "Tower changed, really quit"
+msgstr ""
+"Torn ändrat,\n"
+"verkligen avsluta"
+
+#: src/leveledit.cc:201
+msgid "Tower changed, really load"
+msgstr ""
+"Torn ändrat,\n"
+"verkligen läsa in"
+
+#: src/leveledit.cc:218
+msgid "Red"
+msgstr "Röd"
+
+#: src/leveledit.cc:218
+msgid "Green"
+msgstr "Grön"
+
+#: src/leveledit.cc:218
+msgid "Blue"
+msgstr "Blå"
+
+#: src/leveledit.cc:227
+msgid "Tower Color"
+msgstr "Tornfärg"
+
+#: src/leveledit.cc:309
+msgid "No problems found"
+msgstr "Inga problem hittades"
+
+#: src/leveledit.cc:310
+msgid "No starting step"
+msgstr "Inget steg att börja på"
+
+#: src/leveledit.cc:311
+msgid "Start is blocked"
+msgstr "Start är blockerad"
+
+#: src/leveledit.cc:312
+msgid "Unknown block"
+msgstr "Okänd blockering"
+
+#: src/leveledit.cc:313
+msgid "No elevator stop"
+msgstr "Inget stopp för hiss"
+
+#: src/leveledit.cc:314
+msgid "Elevator is blocked"
+msgstr "Hiss är blockerad"
+
+#: src/leveledit.cc:315
+msgid "No opposing doorway"
+msgstr "Ingen motsvarande dörr"
+
+#: src/leveledit.cc:316
+msgid "Broken doorway"
+msgstr "Trasig väg för dörr"
+
+#: src/leveledit.cc:317
+msgid "No exit"
+msgstr "Ingen utgång"
+
+#: src/leveledit.cc:318
+msgid "Exit is unreachable"
+msgstr "Utgång kan ej nås"
+
+#: src/leveledit.cc:319
+msgid "Not enough time"
+msgstr "Inte tillräcklig tid"
+
+#: src/leveledit.cc:320
+msgid "Tower is too short"
+msgstr "Torn är för kort"
+
+#: src/leveledit.cc:321
+msgid "Tower has no name"
+msgstr "Torn saknar namn"
+
+#: src/leveledit.cc:329
+msgid "Tower check:"
+msgstr "Kontroll av torn:"
+
+#: src/leveledit.cc:355 src/leveledit.cc:370 src/leveledit.cc:391
+msgid "Mission creation"
+msgstr "Skapa uppdrag"
+
+#: src/leveledit.cc:356
+msgid "enter mission name"
+msgstr "ange uppdragsnamn"
+
+#: src/leveledit.cc:357
+msgid "empty to abort"
+msgstr "blank för att avbryta"
+
+#: src/leveledit.cc:372
+msgid "could not create file"
+msgstr "kunde inte skapa fil"
+
+#: src/leveledit.cc:373
+msgid "aborting"
+msgstr "avbryter"
+
+#: src/leveledit.cc:392
+msgid "enter name of"
+msgstr "ange namnet för"
+
+#: src/leveledit.cc:394
+msgid "tower no "
+msgstr "torn nr "
+
+#: src/leveledit.cc:414
+msgid "Editor Key Help"
+msgstr "Hjälp för redigering"
+
+#: src/leveledit.cc:529
+msgid "cut#"
+msgstr "klipp#"
+
+#: src/leveledit.cc:567
+#, c-format
+msgid "key: %s, char: %c, action: %i\n"
+msgstr "tangent: %s, tecken: %c, åtgärd: %i\n"
+
+#: src/leveledit.cc:699
+msgid "Load tower:"
+msgstr "Läs in torn:"
+
+#: src/leveledit.cc:718
+msgid "Save tower:"
+msgstr "Spara torn:"
+
+#: src/leveledit.cc:772
+msgid "No recorded demo"
+msgstr "Ingen inspelad demo"
+
+#: src/leveledit.cc:813
+msgid "Enter tower time:"
+msgstr "Ange tid för torn:"
+
+#: src/leveledit.cc:827
+msgid "Adjust tower height:"
+msgstr "Justera tornets höjd:"
+
+#: src/leveledit.cc:907
+msgid "Name the tower:"
+msgstr "Namnge tornet:"
+
+#: src/main.cc:37
+#, c-format
+msgid ""
+"\n"
+"\tOptions:\n"
+"\n"
+"  -f\tEnable fullscreen mode\n"
+"  -s\tSilence, disable all sound\n"
+"  -dX\tSet debug level to X  (default: %i)\n"
+msgstr ""
+"\n"
+"\tFlaggor:\n"
+"\n"
+"  -f\tAktivera helskärmsläge\n"
+"  -s\tTyst, stäng av allt ljud\n"
+"  -dX\tSätt felsökningsläge til X  (förval: %i)\n"
+
+#: src/main.cc:47
+#, c-format
+msgid "Debug level is now %c.\n"
+msgstr "Felsökningsnivå är nu %c.\n"
+
+#: src/main.cc:49
+#, c-format
+msgid "Illegal debug level value, using default.\n"
+msgstr "Ogiltig felsökningsnivå, använder förvald.\n"
+
+#: src/main.cc:98
+#, c-format
+msgid "Nebulus version %s"
+msgstr "Nebulus version %s"
+
+#: src/main.cc:113
+#, c-format
+msgid "Thanks for playing!\n"
+msgstr "Tack för att du spelar!\n"
+
+#: src/menusys.cc:380
+msgid "Press fire"
+msgstr "Tryck skjut"
+
+#: src/menusys.cc:380
+msgid "Press space"
+msgstr "Tryck blanksteg"
+
+#: src/menusys.cc:539
+msgid "Yes"
+msgstr "Ja"
+
+#: src/menusys.cc:549
+msgid "No"
+msgstr "Nej"
+
+#: src/keyb.cc:159
+#, c-format
+msgid "Wheee!!\n"
+msgstr "Woohooo!!\n"
+
+#: src/menu.cc:70
+msgid "Extra Life"
+msgstr "Extraliv"
+
+#: src/menu.cc:75
+msgid "+200 Points"
+msgstr "+200 poäng"
+
+#: src/menu.cc:93
+msgid "Up"
+msgstr "Upp"
+
+#: src/menu.cc:93
+msgid "Down"
+msgstr "Ned"
+
+#: src/menu.cc:93
+msgid "Left"
+msgstr "Vänster"
+
+#: src/menu.cc:93
+msgid "Right"
+msgstr "Höger"
+
+#: src/menu.cc:93
+msgid "Fire"
+msgstr "Skjut"
+
+#: src/menu.cc:143
+msgid "Password: "
+msgstr "Lösenord: "
+
+#: src/menu.cc:147
+msgid "Status on top"
+msgstr "Status på topp"
+
+#: src/menu.cc:162
+msgid "Lives: "
+msgstr "Liv: "
+
+#: src/menu.cc:188
+msgid "Game Speed:"
+msgstr "Spelhastighet:"
+
+#: src/menu.cc:212
+msgid "Bonus"
+msgstr "Bonus"
+
+#: src/menu.cc:227
+msgid "Game Options"
+msgstr "Spelalternativ"
+
+#: src/menu.cc:238 src/menu.cc:258 src/menu.cc:487 src/menu.cc:511
+#: src/menu.cc:535 src/menu.cc:683
+msgid "Back"
+msgstr "Tillbaka"
+
+#: src/menu.cc:249 src/menu.cc:264
+msgid "Redefine Keys"
+msgstr "Definiera tangenter"
+
+#: src/menu.cc:269
+msgid "Fullscreen"
+msgstr "Helskärmsläge"
+
+#: src/menu.cc:287
+msgid "Sounds"
+msgstr "Ljud"
+
+#: src/menu.cc:313
+msgid "Music"
+msgstr ""
+
+#: src/menu.cc:356
+msgid "Font alpha"
+msgstr "Typsnitt alpha"
+
+#: src/menu.cc:373
+msgid "Sprites alpha"
+msgstr "Sprite alpha"
+
+#: src/menu.cc:390
+msgid "Scroller alpha"
+msgstr "Skroller alpha"
+
+#: src/menu.cc:407
+msgid "Shadowing"
+msgstr "Skuggning"
+
+#: src/menu.cc:440
+msgid "Nonreflecting waves"
+msgstr "Ej reflekterande vågor"
+
+#: src/menu.cc:441
+msgid "Simple waves"
+msgstr "Enkla vågor"
+
+#: src/menu.cc:442
+msgid "Expensive waves"
+msgstr "Kraftiga vågor"
+
+#: src/menu.cc:443
+msgid "Error"
+msgstr "Fel"
+
+#: src/menu.cc:452
+msgid "Complete Scroller"
+msgstr "Komplett skroll"
+
+#: src/menu.cc:453
+msgid "2 layers Scoller"
+msgstr "2-lagers skroll"
+
+#: src/menu.cc:458
+msgid "Shadows"
+msgstr ""
+
+#: src/menu.cc:474
+msgid "Alpha Options"
+msgstr "Alfainställningar"
+
+#: src/menu.cc:497
+msgid "Graphics"
+msgstr "Grafik"
+
+#: src/menu.cc:521
+msgid "Options"
+msgstr "Alternativ"
+
+#: src/menu.cc:657
+msgid "HighScores"
+msgstr "Poängtoppen"
+
+#: src/menu.cc:661
+msgid "Scores for"
+msgstr "Poäng för"
+
+#: src/menu.cc:685
+msgid "OK"
+msgstr "OK"
+
+#: src/menu.cc:701
+msgid ""
+"Congratulations! You are\n"
+"probably good enough to\n"
+"enter the highscore table!"
+msgstr ""
+"Gratulerar! Du är\n"
+"antagligen tillräckligt bra att\n"
+"komma in på poängtoppen!"
+
+#: src/menu.cc:726
+msgid "Please enter your name"
+msgstr "Ange ditt namn"
+
+#: src/menu.cc:775
+msgid ""
+"This mission contains\n"
+"unknown building blocks.\n"
+"You probably need a new\n"
+"version of Tower Toppler.\n"
+"Do you want to continue?"
+msgstr ""
+"Detta uppdrag innehåller\n"
+"okända byggblock.\n"
+"Du behöver antagligen en\n"
+"ny version av Tower Toppler.\n"
+"Vill du fortsätta?"
+
+#: src/menu.cc:832
+msgid "Hunt the Fish"
+msgstr "Jaga fisken"
+
+#: src/menu.cc:855
+msgid "Start:"
+msgstr "Starta:"
+
+#: src/menu.cc:864
+msgid "Highscores"
+msgstr "Poängtoppen"
+
+#: src/menu.cc:874
+msgid "Level Editor"
+msgstr "Redigera nivå"
+
+#: src/menu.cc:927
+msgid "Return to Game"
+msgstr "Återvänd till spel"
+
+#: src/menu.cc:936
+msgid "Quit Game"
+msgstr "Avsluta spel"
+
+#: src/menu.cc:943
+msgid "DEBUG MENU"
+msgstr "FELSÖKNINGSMENY"
+
+#: src/menu.cc:948
+msgid "Back to Game"
+msgstr "Tillbaka till spel"
+
+#: _build/nms_m1.txt:1
+msgid "Mission 1"
+msgstr "Uppdrag 1"
+
+#: _build/nms_m1.txt:3
+msgid "Tower of eyes"
+msgstr "Ögonens torn"
+
+#: _build/nms_m1.txt:5
+msgid "Realm of robots"
+msgstr "Robotarnas värld"
+
+#: _build/nms_m1.txt:7
+msgid "Trap of tricks"
+msgstr "Fällor eller tricks"
+
+#: _build/nms_m1.txt:9
+msgid "Slippery slide"
+msgstr "Slippery slide"
+
+#: _build/nms_m1.txt:11
+msgid "Broken path"
+msgstr "Trasig väg"
+
+#: _build/nms_m1.txt:13
+msgid "Swimmers delight"
+msgstr "Simmarnas önskan"
+
+#: _build/nms_m1.txt:15
+msgid "Nasty one"
+msgstr "En elaking"
+
+#: _build/nms_m1.txt:17
+msgid "Edge of doom"
+msgstr "Helvetets kant"
+
+#: _build/nms_m2.txt:1
+msgid "Mission 2"
+msgstr "Uppdrag 2"
+
+#: _build/nms_m2.txt:3
+msgid "Blink of the eye"
+msgstr "Ögats blinkning"
+
+#: _build/nms_m2.txt:5
+msgid "Robot's heaven"
+msgstr "Robotarnas himmel"
+
+#: _build/nms_m2.txt:7
+msgid "Trick of traps"
+msgstr "Trick of traps"
+
+#: _build/nms_m2.txt:9
+msgid "No man's land"
+msgstr "Ingenmansland"
+
+#: _build/nms_m2.txt:11
+msgid "Oh, *******!!"
+msgstr "Oh, *******!!"
+
+#: _build/nms_m2.txt:13
+msgid "Riddle of reason"
+msgstr "Anledningarnas gåta"
+
+#: _build/nms_m2.txt:15
+msgid "Maze of mistakes"
+msgstr "Misstagens labyrint"
+
+#: _build/nms_m2.txt:17
+msgid "Last trump"
+msgstr "Last trump"
+
+#: _build/nms_ball1.txt:1
+msgid "Ball 1"
+msgstr "Boll 1"
+
+#: _build/nms_ball1.txt:3
+msgid "Run and don't stop"
+msgstr "Spring och stanna inte"
+
+#: _build/nms_ball1.txt:5
+msgid "Watch your step"
+msgstr "Se var du går"
+
+#: _build/nms_ball1.txt:7
+msgid "Short, but deadly"
+msgstr "Kort men dödlig"
+
+#: _build/nms_ball1.txt:9
+msgid "The maddening"
+msgstr "The maddening"
+
+#: _build/nms_ball1.txt:11
+msgid "Doom at every step"
+msgstr "Doom at every step"
+
+#: _build/nms_ball1.txt:13
+msgid "Enemies everywhere"
+msgstr "Fiender överallt"
+
+#: _build/nms_ball1.txt:15
+msgid "You will loose"
+msgstr "Du kommer att förlora"
+
+#: _build/nms_ball1.txt:17
+msgid "Mind destroyer"
+msgstr "Mind destroyer"
+
+#: _build/nms_ball2.txt:1
+msgid "Ball 2"
+msgstr "Boll 2"
+
+#: _build/nms_ball2.txt:3
+msgid "Mind Trap"
+msgstr "Mind Trap"
+
+#: _build/nms_ball2.txt:5
+msgid "Breaking Tower"
+msgstr "Breaking Tower"
+
+#: _build/nms_ball2.txt:7
+msgid "Great Fall"
+msgstr "Great Fall"
+
+#: _build/nms_ball2.txt:9
+msgid "Tower of Intrigue"
+msgstr "Intrigernas torn"
+
+#: _build/nms_ball2.txt:11
+msgid "Massacre"
+msgstr "Massaker"
+
+#: _build/nms_ball2.txt:13
+msgid "Bouncing Murders"
+msgstr "Studsande mördare"
+
+#: _build/nms_ball2.txt:15
+msgid "Trial and error"
+msgstr "Försök och misslyckas"
+
+#: _build/nms_ball2.txt:17
+msgid "Tower of Pure Evil"
+msgstr "Tornet av ren ondska"
+
+#: _build/nms_ball3.txt:1
+msgid "Ball 3"
+msgstr "Boll 3"
+
+#: _build/nms_ball3.txt:3
+msgid "Annoying Tower"
+msgstr "Annoying Tower"
+
+#: _build/nms_ball3.txt:5
+msgid "Cave of Failure"
+msgstr "Cave of Failure"
+
+#: _build/nms_ball3.txt:7
+msgid "Dividing path"
+msgstr "Delad stig"
+
+#: _build/nms_ball3.txt:9
+msgid "No Way Out?"
+msgstr "Ingen väg ut?"
+
+#: _build/nms_ball3.txt:11
+msgid "Trap"
+msgstr "Fälla"
+
+#: _build/nms_ball3.txt:13
+msgid "Tower of Mystery"
+msgstr "Mysteriernas torn"
+
+#: _build/nms_ball3.txt:15
+msgid "Slip ... and die"
+msgstr "Halka ... och dö"
+
+#: _build/nms_ball3.txt:17
+msgid "Mission Impossible"
+msgstr "Omöjligt uppdrag"
+
+#: _build/nms_abc.txt:1
+msgid "ABC Towers"
+msgstr "ABC-tornen"
+
+#: _build/nms_abc.txt:3
+msgid "Slices"
+msgstr "Slices"
+
+#: _build/nms_abc.txt:5
+msgid "Corridors"
+msgstr "Korridorer"
+
+#: _build/nms_abc.txt:7
+msgid "Higher Ground"
+msgstr "Högre mark"
+
+#: _build/nms_abc.txt:9
+msgid "No Icing"
+msgstr "No Icing"
+
+#: _build/nms_abc.txt:11
+msgid "Three Layers"
+msgstr "Tre lager"
+
+#: _build/nms_abc.txt:13
+msgid "Two Ways"
+msgstr "Två vägar"
+
+#: _build/nms_abc.txt:15
+msgid "Spiral"
+msgstr "Spiral"
+
+#: _build/nms_abc.txt:17
+msgid "Skygazer"
+msgstr "Skygazer"
+
+#: _build/nms_pasi2.txt:1
+msgid "Pasis 2 Towers"
+msgstr ""
+
+#: _build/nms_pasi2.txt:3
+msgid "Ventilation Shafts"
+msgstr ""
+
+#: _build/nms_pasi2.txt:5
+msgid "Tower 2"
+msgstr ""
+
+#: _build/nms_david1.txt:1
+msgid "Challenge 1"
+msgstr ""
+
+#: _build/nms_david1.txt:3
+msgid "Difficult jumps!"
+msgstr ""
+
+#: _build/nms_david1.txt:5
+msgid "Washout"
+msgstr ""
+
+#: _build/nms_david1.txt:7
+msgid "Climbing and tricks"
+msgstr ""
+
+#: _build/nms_david1.txt:9
+msgid "Watch the robots"
+msgstr ""
+
+#: _build/nms_david1.txt:11
+#, fuzzy
+msgid "Two Halves"
+msgstr "Två vägar"
+
+#: _build/nms_david1.txt:13
+msgid "Turning up the heat"
+msgstr ""
+
+#: _build/nms_david1.txt:15
+msgid "Confusing"
+msgstr ""
+
+#: _build/nms_david1.txt:17
+#, fuzzy
+msgid "Short but dangerous"
+msgstr "Kort men dödlig"
+
+#: _build/nms_david2.txt:1
+msgid "Challenge 2"
+msgstr ""
+
+#: _build/nms_david2.txt:3
+msgid "Waves"
+msgstr ""
+
+#: _build/nms_david2.txt:5
+msgid "Dragon tower"
+msgstr ""
+
+#: _build/nms_david2.txt:7
+msgid "Hullabaloo"
+msgstr ""
+
+#: _build/nms_david2.txt:9
+msgid "Labyrinth"
+msgstr ""

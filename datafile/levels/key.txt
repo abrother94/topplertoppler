@@ -1,0 +1,19 @@
+   empty
+v  top elevator station
++  middle elevator station
+^  bottom elevator station
+1  freeze ball
+2  jumping ball moving from the start
+3  jumping ball standing and then moving to you
+4  robot, up down
+5  robot, up down fast
+6  robot left right
+7  robot left right fast
+!  stick
+-  platform
+b  flashing box
+#  normal door
+.  vanishng platform
+>  slippery platform (slip right)
+<  slippery platform (slip left)
+T  target door

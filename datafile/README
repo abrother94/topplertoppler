@@ -1,0 +1,17 @@
+Dear brave soul,
+
+so you have decided to try to build the tower toppler datafile on your
+own. To make this possible here are a few hints.
+
+1. Software requirements
+
+- gimp with script-fu support
+- povray
+- c compiler
+- libz and libpng
+
+then simply delete the toppler.dat from the main directory and type
+
+make
+
+and the datafile should be re-created from the data in here

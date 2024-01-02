@@ -1,0 +1,949 @@
+# translation of fr.po to French
+# This file is distributed under the same license as the toppler package.
+# Copyright (C) 2004 Andreas Röver.
+# Andreas Röver <roever@users.sf.net>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fr\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 22:18-0800\n"
+"PO-Revision-Date: 2004-02-08 10:56+0100\n"
+"Last-Translator: Bill Allombert <ballombe@debian.org>\n"
+"Language-Team: French <fr@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.2\n"
+
+#: src/bonus.cc:110 src/game.cc:467
+msgid "Pause"
+msgstr "Pause"
+
+#: src/game.cc:82
+msgid "You are entering the"
+msgstr "Vous pénétrez dans"
+
+#: src/game.cc:87
+msgid "Nameless Tower"
+msgstr "Tour sans nom"
+
+#: src/game.cc:90
+msgid "Password:    "
+msgstr "Mot de passe :   "
+
+#: src/game.cc:294
+msgid "Time over"
+msgstr "Temps écoulé"
+
+#: src/game.cc:308 src/game.cc:313
+msgid "Time:"
+msgstr "Temps :"
+
+#: src/game.cc:309 src/game.cc:314
+msgid "Technique:"
+msgstr "Technique :"
+
+#: src/game.cc:310 src/game.cc:315
+msgid "Extra:"
+msgstr "Extra :"
+
+#: src/game.cc:311
+msgid "Lifes:"
+msgstr "Vies :"
+
+#: src/keyb.cc:159
+#, c-format
+msgid "Wheee!!\n"
+msgstr "Woouaaa !\n"
+
+#: src/leveledit.cc:103 src/menu.cc:978
+msgid "Quit"
+msgstr "Quitter"
+
+#: src/leveledit.cc:103
+msgid "Move up"
+msgstr "Monter"
+
+#: src/leveledit.cc:103
+msgid "Move down"
+msgstr "Descendre"
+
+#: src/leveledit.cc:103
+msgid "Move left"
+msgstr "Se déplacer à gauche"
+
+#: src/leveledit.cc:104
+msgid "Move right"
+msgstr "Se déplacer à droite"
+
+#: src/leveledit.cc:104
+msgid "Insert row"
+msgstr "Insérer une rangée"
+
+#: src/leveledit.cc:104
+msgid "Delete row"
+msgstr "Supprimer une rangée"
+
+#: src/leveledit.cc:104
+msgid "Rotate 180"
+msgstr "Tourner de 180 degrés"
+
+#: src/leveledit.cc:105
+msgid "Put space"
+msgstr "Placer un espace"
+
+#: src/leveledit.cc:105
+msgid "Put step"
+msgstr "Placer une marche"
+
+#: src/leveledit.cc:105
+msgid "Put vanisher"
+msgstr "Placer une marche branlante"
+
+#: src/leveledit.cc:105
+msgid "Put slider left"
+msgstr "Placer un glisseur vers la gauche"
+
+#: src/leveledit.cc:106
+msgid "Put slider right"
+msgstr "Placer un glisseur vers la droite"
+
+#: src/leveledit.cc:107
+msgid "Put door"
+msgstr "Placer une porte"
+
+#: src/leveledit.cc:107
+msgid "Put goal"
+msgstr "Placer un but"
+
+#: src/leveledit.cc:107
+msgid "Check tower"
+msgstr "Vérifier la tour"
+
+#: src/leveledit.cc:107
+msgid "Put rolling ball"
+msgstr "Placer une balle qui roule"
+
+#: src/leveledit.cc:108
+msgid "Put jumping ball moving"
+msgstr "Placer une balle rebondissante en mouvement"
+
+#: src/leveledit.cc:108
+msgid "Put jumping ball"
+msgstr "Placer une balle rebondissante"
+
+#: src/leveledit.cc:108
+msgid "Put robot up down"
+msgstr "Placer un robot haut-bas"
+
+#: src/leveledit.cc:108
+msgid "Put robot up down fast"
+msgstr "Placer un robot haut-bas rapide"
+
+#: src/leveledit.cc:109
+msgid "Put robot left right"
+msgstr "Placer un robot gauche-droite"
+
+#: src/leveledit.cc:109
+msgid "Put robot left right fast"
+msgstr "Placer un robot gauche-droite rapide"
+
+#: src/leveledit.cc:109
+msgid "Put lift"
+msgstr "Placer un ascenceur"
+
+#: src/leveledit.cc:109
+msgid "Lift middle stop"
+msgstr "Arrêt d'ascenseur intermédiaire"
+
+#: src/leveledit.cc:110
+msgid "Lift top stop"
+msgstr "Dernier arrêt d'ascenseur"
+
+#: src/leveledit.cc:110
+msgid "Put pillar"
+msgstr "Placer une colonne"
+
+#: src/leveledit.cc:110
+msgid "Put box"
+msgstr "Placer une boîte"
+
+#: src/leveledit.cc:110
+msgid "Load tower"
+msgstr "Charger la tour"
+
+#: src/leveledit.cc:111
+msgid "Save tower"
+msgstr "Sauvegarder la tour"
+
+#: src/leveledit.cc:111
+msgid "Test tower"
+msgstr "Tester la tour"
+
+#: src/leveledit.cc:111
+msgid "Set tower color"
+msgstr "Établir la couleur de la tour"
+
+#: src/leveledit.cc:111
+msgid "Increase time"
+msgstr "Augmenter le temps"
+
+#: src/leveledit.cc:112
+msgid "Decrease time"
+msgstr "Diminuer le temps"
+
+#: src/leveledit.cc:112
+msgid "Create mission"
+msgstr "Créer une mission"
+
+#: src/leveledit.cc:112
+msgid "Move page up"
+msgstr "Aller à la page suivante"
+
+#: src/leveledit.cc:112
+msgid "Move page down"
+msgstr "Aller à la page précédente"
+
+#: src/leveledit.cc:113
+msgid "Go to start"
+msgstr "Aller au début"
+
+#: src/leveledit.cc:113
+msgid "Show this help"
+msgstr "Afficher cette aide"
+
+#: src/leveledit.cc:113
+msgid "Name the tower"
+msgstr "Nommer la tour"
+
+#: src/leveledit.cc:113
+msgid "Set tower time"
+msgstr "Établir le temps pour la tour"
+
+#: src/leveledit.cc:114
+msgid "Record demo"
+msgstr "Enregistrer une démo"
+
+#: src/leveledit.cc:114
+msgid "Play demo"
+msgstr "Jouer la démo"
+
+#: src/leveledit.cc:114
+msgid "Adjust tower height"
+msgstr "Ajuster la hauteur de la tour"
+
+#: src/leveledit.cc:114
+msgid "Go to end"
+msgstr "Aller à la fin"
+
+#: src/leveledit.cc:115
+msgid "Cut row"
+msgstr "Couper une rangée"
+
+#: src/leveledit.cc:115
+msgid "Paste row"
+msgstr "Coller une rangée"
+
+#: src/leveledit.cc:115
+msgid "Change robot type"
+msgstr "Changer le type du robot"
+
+#: src/leveledit.cc:191
+msgid "Tower changed, really quit"
+msgstr ""
+"Tour modifiée,\n"
+"voulez-vous vraiment\n"
+"quitter"
+
+#: src/leveledit.cc:201
+msgid "Tower changed, really load"
+msgstr ""
+"Tour modifiée,\n"
+"voulez-vous vraiment\n"
+"charger"
+
+#: src/leveledit.cc:218
+msgid "Red"
+msgstr "Rouge"
+
+#: src/leveledit.cc:218
+msgid "Green"
+msgstr "Vert"
+
+#: src/leveledit.cc:218
+msgid "Blue"
+msgstr "Bleu"
+
+#: src/leveledit.cc:227
+msgid "Tower Color"
+msgstr "Couleur de la tour"
+
+#: src/leveledit.cc:309
+msgid "No problems found"
+msgstr "Aucun problème rencontré"
+
+#: src/leveledit.cc:310
+msgid "No starting step"
+msgstr "Pas de marche de départ"
+
+#: src/leveledit.cc:311
+msgid "Start is blocked"
+msgstr "Le départ est bloqué"
+
+#: src/leveledit.cc:312
+msgid "Unknown block"
+msgstr "Bloc inconnu"
+
+#: src/leveledit.cc:313
+msgid "No elevator stop"
+msgstr "Pas d'arrêt de l'ascenseur"
+
+#: src/leveledit.cc:314
+msgid "Elevator is blocked"
+msgstr "L'ascenseur est bloqué"
+
+#: src/leveledit.cc:315
+msgid "No opposing doorway"
+msgstr "Pas de porte de l'autre côté"
+
+#: src/leveledit.cc:316
+msgid "Broken doorway"
+msgstr "Porte cassée"
+
+#: src/leveledit.cc:317
+msgid "No exit"
+msgstr "Pas de sortie"
+
+#: src/leveledit.cc:318
+msgid "Exit is unreachable"
+msgstr "La sortie n'est pas accessible"
+
+#: src/leveledit.cc:319
+msgid "Not enough time"
+msgstr "Pas assez de temps"
+
+#: src/leveledit.cc:320
+msgid "Tower is too short"
+msgstr "La tour est trop courte"
+
+#: src/leveledit.cc:321
+msgid "Tower has no name"
+msgstr "La tour n'a pas de nom"
+
+#: src/leveledit.cc:329
+msgid "Tower check:"
+msgstr "Vérification de la tour :"
+
+#: src/leveledit.cc:355 src/leveledit.cc:370 src/leveledit.cc:391
+msgid "Mission creation"
+msgstr "Création d'une mission"
+
+#: src/leveledit.cc:356
+msgid "enter mission name"
+msgstr "Entrez le nom de la mission"
+
+#: src/leveledit.cc:357
+msgid "empty to abort"
+msgstr "Rien à abandonner"
+
+#: src/leveledit.cc:372
+msgid "could not create file"
+msgstr "Ne peut pas créer le fichier"
+
+#: src/leveledit.cc:373
+msgid "aborting"
+msgstr "Abandon"
+
+#: src/leveledit.cc:392
+msgid "enter name of"
+msgstr "Entrez le nom de"
+
+#: src/leveledit.cc:394
+msgid "tower no "
+msgstr "tour numéro "
+
+#: src/leveledit.cc:414
+msgid "Editor Key Help"
+msgstr "Aide de l'éditeur"
+
+#: src/leveledit.cc:529
+msgid "cut#"
+msgstr "coupe#"
+
+#: src/leveledit.cc:567
+#, c-format
+msgid "key: %s, char: %c, action: %i\n"
+msgstr "cle: %s, car.: %c, action: %i\n"
+
+#: src/leveledit.cc:699
+msgid "Load tower:"
+msgstr "Charger la tour:"
+
+#: src/leveledit.cc:718
+msgid "Save tower:"
+msgstr "Sauver la tour"
+
+#: src/leveledit.cc:772
+msgid "No recorded demo"
+msgstr "Pas de démo enregistrée"
+
+#: src/leveledit.cc:813
+msgid "Enter tower time:"
+msgstr "Entrez le temps pour la tour :"
+
+#: src/leveledit.cc:827
+msgid "Adjust tower height:"
+msgstr "Ajuster la hauteur de la tour"
+
+#: src/leveledit.cc:907
+msgid "Name the tower:"
+msgstr "Nommer la tour"
+
+#: src/main.cc:37
+#, c-format
+msgid ""
+"\n"
+"\tOptions:\n"
+"\n"
+"  -f\tEnable fullscreen mode\n"
+"  -s\tSilence, disable all sound\n"
+"  -dX\tSet debug level to X  (default: %i)\n"
+msgstr ""
+"\n"
+"\tOptions :\n"
+"\n"
+"  -f\tActiver le mode plein écran\n"
+"  -s\tSilence, désactiver les sons\n"
+"  -dX\tNiveau de débuggage à X  (défaut : %i)\n"
+
+#: src/main.cc:47
+#, c-format
+msgid "Debug level is now %c.\n"
+msgstr "Le niveau de débuggage est maintenant %c.\n"
+
+#: src/main.cc:49
+#, c-format
+msgid "Illegal debug level value, using default.\n"
+msgstr "Niveau de débuggage illégal, utilise la valeur par défaut.\n"
+
+#: src/main.cc:98
+#, c-format
+msgid "Nebulus version %s"
+msgstr "Version de Nebulus %s"
+
+#: src/main.cc:113
+#, c-format
+msgid "Thanks for playing!\n"
+msgstr "Merci d'avoir joué !\n"
+
+#: src/menu.cc:70
+msgid "Extra Life"
+msgstr "Vie supplémentaire"
+
+#: src/menu.cc:75
+msgid "+200 Points"
+msgstr "+200 Points"
+
+#: src/menu.cc:93
+msgid "Up"
+msgstr "Haut"
+
+#: src/menu.cc:93
+msgid "Down"
+msgstr "Bas"
+
+#: src/menu.cc:93
+msgid "Left"
+msgstr "Gauche"
+
+#: src/menu.cc:93
+msgid "Right"
+msgstr "Droite"
+
+#: src/menu.cc:93
+msgid "Fire"
+msgstr "Feu"
+
+#: src/menu.cc:143
+msgid "Password: "
+msgstr "Mot de passe : "
+
+#: src/menu.cc:147
+msgid "Status on top"
+msgstr "État au sommet"
+
+#: src/menu.cc:162
+msgid "Lives: "
+msgstr "Vies :"
+
+#: src/menu.cc:188
+msgid "Game Speed:"
+msgstr "Vitesse de jeu : "
+
+#: src/menu.cc:212
+msgid "Bonus"
+msgstr "Bonus"
+
+#: src/menu.cc:227
+msgid "Game Options"
+msgstr "Options du jeu"
+
+#: src/menu.cc:238 src/menu.cc:258 src/menu.cc:487 src/menu.cc:511
+#: src/menu.cc:535 src/menu.cc:683
+msgid "Back"
+msgstr "Retour"
+
+#: src/menu.cc:249 src/menu.cc:264
+msgid "Redefine Keys"
+msgstr "Redéfinir les touches"
+
+#: src/menu.cc:269
+msgid "Fullscreen"
+msgstr "Plein écran"
+
+#: src/menu.cc:287
+msgid "Sounds"
+msgstr "Sons"
+
+#: src/menu.cc:313
+msgid "Music"
+msgstr "Musique"
+
+#: src/menu.cc:356
+msgid "Font alpha"
+msgstr "Polices transparentes"
+
+#: src/menu.cc:373
+msgid "Sprites alpha"
+msgstr "Sprites transparents"
+
+#: src/menu.cc:390
+msgid "Scroller alpha"
+msgstr "Défilement transparent"
+
+#: src/menu.cc:407
+msgid "Shadowing"
+msgstr "Ombres"
+
+#: src/menu.cc:440
+msgid "Nonreflecting waves"
+msgstr "Vagues sans reflets"
+
+#: src/menu.cc:441
+msgid "Simple waves"
+msgstr "Vagues simples"
+
+#: src/menu.cc:442
+msgid "Expensive waves"
+msgstr "Vagues coûteuses"
+
+#: src/menu.cc:443
+msgid "Error"
+msgstr "Erreur"
+
+#: src/menu.cc:452
+msgid "Complete Scroller"
+msgstr "Défilement complet"
+
+#: src/menu.cc:453
+msgid "2 layers Scoller"
+msgstr "Défilement deux couches"
+
+#: src/menu.cc:458
+msgid "Shadows"
+msgstr "Ombres"
+
+#: src/menu.cc:474
+msgid "Alpha Options"
+msgstr "Options de transparence"
+
+#: src/menu.cc:497
+msgid "Graphics"
+msgstr "Graphismes"
+
+#: src/menu.cc:521
+msgid "Options"
+msgstr "Options"
+
+#: src/menu.cc:657
+msgid "HighScores"
+msgstr "Meilleurs scores"
+
+#: src/menu.cc:661
+msgid "Scores for"
+msgstr "Scores pour "
+
+#: src/menu.cc:685
+msgid "OK"
+msgstr "OK"
+
+#: src/menu.cc:701
+msgid ""
+"Congratulations! You are\n"
+"probably good enough to\n"
+"enter the highscore table!"
+msgstr ""
+"Félicitations ! Vous êtes\n"
+"probablement suffisament\n"
+"bon pour figurer dans le\n"
+"tableau des scores !"
+
+#: src/menu.cc:726
+msgid "Please enter your name"
+msgstr "Veuillez entrer votre nom"
+
+#: src/menu.cc:775
+msgid ""
+"This mission contains\n"
+"unknown building blocks.\n"
+"You probably need a new\n"
+"version of Tower Toppler.\n"
+"Do you want to continue?"
+msgstr ""
+"Cette mission contient\n"
+"Blocs de construction inconnus.\n"
+"Vous avez probablement besoin d'une nouvelle\n"
+"version de Tower Toppler.\n"
+"Voulez-vous continuer ?"
+
+#: src/menu.cc:832
+msgid "Hunt the Fish"
+msgstr "À la pêche"
+
+#: src/menu.cc:855
+msgid "Start:"
+msgstr "Démarrer :"
+
+#: src/menu.cc:864
+msgid "Highscores"
+msgstr "Meilleurs scores"
+
+#: src/menu.cc:874
+msgid "Level Editor"
+msgstr "Éditeur de niveau"
+
+#: src/menu.cc:927
+msgid "Return to Game"
+msgstr "Retourner au jeu"
+
+#: src/menu.cc:936
+msgid "Quit Game"
+msgstr "Quitter le jeu"
+
+#: src/menu.cc:943
+msgid "DEBUG MENU"
+msgstr "MENU DE DÉBUGGAGE"
+
+#: src/menu.cc:948
+msgid "Back to Game"
+msgstr "Retour au jeu"
+
+#: src/menusys.cc:380
+msgid "Press fire"
+msgstr "Appuyer sur Feu"
+
+#: src/menusys.cc:380
+msgid "Press space"
+msgstr "Appuyer sur espace"
+
+#: src/menusys.cc:539
+msgid "Yes"
+msgstr "Oui"
+
+#: src/menusys.cc:549
+msgid "No"
+msgstr "Non"
+
+#: src/screen.cc:2016
+msgid "REC"
+msgstr "ENREG"
+
+#: src/screen.cc:2017
+msgid "DEMO"
+msgstr "DÉMO"
+
+#: _build/nms_m1.txt:1
+msgid "Mission 1"
+msgstr "Mission 1"
+
+#: _build/nms_m1.txt:3
+msgid "Tower of eyes"
+msgstr "La tour des yeux"
+
+#: _build/nms_m1.txt:5
+msgid "Realm of robots"
+msgstr "Le royaume des robots"
+
+#: _build/nms_m1.txt:7
+msgid "Trap of tricks"
+msgstr "Le Piège des combines"
+
+#: _build/nms_m1.txt:9
+msgid "Slippery slide"
+msgstr "Le passage glissant"
+
+#: _build/nms_m1.txt:11
+msgid "Broken path"
+msgstr "Le chemin interrompu"
+
+#: _build/nms_m1.txt:13
+msgid "Swimmers delight"
+msgstr "Le délice des nageurs"
+
+#: _build/nms_m1.txt:15
+msgid "Nasty one"
+msgstr "Le vicieux"
+
+#: _build/nms_m1.txt:17
+msgid "Edge of doom"
+msgstr "L'arète du destin"
+
+#: _build/nms_m2.txt:1
+msgid "Mission 2"
+msgstr "Mission 2"
+
+#: _build/nms_m2.txt:3
+msgid "Blink of the eye"
+msgstr "Le clignement de l'œil"
+
+#: _build/nms_m2.txt:5
+msgid "Robot's heaven"
+msgstr "Le paradis des robots"
+
+#: _build/nms_m2.txt:7
+msgid "Trick of traps"
+msgstr "La Combine des pièges"
+
+#: _build/nms_m2.txt:9
+msgid "No man's land"
+msgstr "Le no man's land"
+
+#: _build/nms_m2.txt:11
+msgid "Oh, *******!!"
+msgstr "Oh, *******!!"
+
+#: _build/nms_m2.txt:13
+msgid "Riddle of reason"
+msgstr "L'énigme de la raison"
+
+#: _build/nms_m2.txt:15
+msgid "Maze of mistakes"
+msgstr "Le dédale des erreurs"
+
+#: _build/nms_m2.txt:17
+msgid "Last trump"
+msgstr "Le dernier atout"
+
+#: _build/nms_ball1.txt:1
+msgid "Ball 1"
+msgstr "Ball 1"
+
+#: _build/nms_ball1.txt:3
+msgid "Run and don't stop"
+msgstr "Courez et ne vous arrêtez pas"
+
+#: _build/nms_ball1.txt:5
+msgid "Watch your step"
+msgstr "Regardez où vous mettez les pieds"
+
+#: _build/nms_ball1.txt:7
+msgid "Short, but deadly"
+msgstr "Court, mais mortel"
+
+#: _build/nms_ball1.txt:9
+msgid "The maddening"
+msgstr "À rendre fou"
+
+#: _build/nms_ball1.txt:11
+msgid "Doom at every step"
+msgstr "La mort à chaque pas"
+
+#: _build/nms_ball1.txt:13
+msgid "Enemies everywhere"
+msgstr "Des ennemis partout"
+
+#: _build/nms_ball1.txt:15
+msgid "You will loose"
+msgstr "Vous allez perdre"
+
+#: _build/nms_ball1.txt:17
+msgid "Mind destroyer"
+msgstr "Le destructeur d'esprit"
+
+#: _build/nms_ball2.txt:1
+msgid "Ball 2"
+msgstr "Ball 2"
+
+#: _build/nms_ball2.txt:3
+msgid "Mind Trap"
+msgstr "Piège à Esprit"
+
+#: _build/nms_ball2.txt:5
+msgid "Breaking Tower"
+msgstr "La Tour Interrompue"
+
+#: _build/nms_ball2.txt:7
+msgid "Great Fall"
+msgstr "La Belle Chute"
+
+#: _build/nms_ball2.txt:9
+msgid "Tower of Intrigue"
+msgstr "La tour de l'Intrigue"
+
+#: _build/nms_ball2.txt:11
+msgid "Massacre"
+msgstr "Massacre"
+
+#: _build/nms_ball2.txt:13
+msgid "Bouncing Murders"
+msgstr "Meutres Rebondissants"
+
+#: _build/nms_ball2.txt:15
+msgid "Trial and error"
+msgstr "Essai et erreur"
+
+#: _build/nms_ball2.txt:17
+msgid "Tower of Pure Evil"
+msgstr "La tour du Mal Pur"
+
+#: _build/nms_ball3.txt:1
+msgid "Ball 3"
+msgstr "Ball 3"
+
+#: _build/nms_ball3.txt:3
+msgid "Annoying Tower"
+msgstr "La Tour Agassante"
+
+#: _build/nms_ball3.txt:5
+msgid "Cave of Failure"
+msgstr "La Caverne de l'Échec"
+
+#: _build/nms_ball3.txt:7
+msgid "Dividing path"
+msgstr "Le chemin qui bifurque"
+
+#: _build/nms_ball3.txt:9
+msgid "No Way Out?"
+msgstr "Pas De Sortie ?"
+
+#: _build/nms_ball3.txt:11
+msgid "Trap"
+msgstr "Piège"
+
+#: _build/nms_ball3.txt:13
+msgid "Tower of Mystery"
+msgstr "La tour des Mystères"
+
+#: _build/nms_ball3.txt:15
+msgid "Slip ... and die"
+msgstr "Glissez... et mourez"
+
+#: _build/nms_ball3.txt:17
+msgid "Mission Impossible"
+msgstr "Mission Impossible"
+
+#: _build/nms_abc.txt:1
+msgid "ABC Towers"
+msgstr "Tours pour débuter"
+
+#: _build/nms_abc.txt:3
+msgid "Slices"
+msgstr "Passages"
+
+#: _build/nms_abc.txt:5
+msgid "Corridors"
+msgstr "Couloirs"
+
+#: _build/nms_abc.txt:7
+msgid "Higher Ground"
+msgstr "Terrain Élevé"
+
+#: _build/nms_abc.txt:9
+msgid "No Icing"
+msgstr "Pas de Glaçage"
+
+#: _build/nms_abc.txt:11
+msgid "Three Layers"
+msgstr "Trois Niveaux"
+
+#: _build/nms_abc.txt:13
+msgid "Two Ways"
+msgstr "Deux Voies"
+
+#: _build/nms_abc.txt:15
+msgid "Spiral"
+msgstr "La spirale"
+
+#: _build/nms_abc.txt:17
+msgid "Skygazer"
+msgstr "Le regarde-ciel"
+
+#: _build/nms_pasi2.txt:1
+msgid "Pasis 2 Towers"
+msgstr "Pasis 2 Tours"
+
+#: _build/nms_pasi2.txt:3
+msgid "Ventilation Shafts"
+msgstr "Gaines d'aérations"
+
+#: _build/nms_pasi2.txt:5
+msgid "Tower 2"
+msgstr "Tour 2"
+
+#: _build/nms_david1.txt:1
+msgid "Challenge 1"
+msgstr "Challenge 1"
+
+#: _build/nms_david1.txt:3
+msgid "Difficult jumps!"
+msgstr "Sauts difficiles!"
+
+#: _build/nms_david1.txt:5
+msgid "Washout"
+msgstr "Lavage"
+
+#: _build/nms_david1.txt:7
+msgid "Climbing and tricks"
+msgstr "Escalade et pièges"
+
+#: _build/nms_david1.txt:9
+msgid "Watch the robots"
+msgstr "Regardez les robots"
+
+#: _build/nms_david1.txt:11
+msgid "Two Halves"
+msgstr "Deux Moitiés"
+
+#: _build/nms_david1.txt:13
+msgid "Turning up the heat"
+msgstr "Augmenter la température"
+
+#: _build/nms_david1.txt:15
+msgid "Confusing"
+msgstr "Confus"
+
+#: _build/nms_david1.txt:17
+msgid "Short but dangerous"
+msgstr "Court, mais mortel"
+
+#: _build/nms_david2.txt:1
+msgid "Challenge 2"
+msgstr ""
+
+#: _build/nms_david2.txt:3
+msgid "Waves"
+msgstr "Les Vagues"
+
+#: _build/nms_david2.txt:5
+msgid "Dragon tower"
+msgstr "La Tour du Dragon"
+
+#: _build/nms_david2.txt:7
+msgid "Hullabaloo"
+msgstr "Le Vacarme"
+
+#: _build/nms_david2.txt:9
+msgid "Labyrinth"
+msgstr "Le Labyrinthe"

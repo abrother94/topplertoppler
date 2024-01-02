@@ -1,0 +1,944 @@
+# translation of toppler.po to librezale
+# Copyright (C) YEAR Andreas R�er
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Piarres Beobide <pi@beobide.net>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: toppler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 22:18-0800\n"
+"PO-Revision-Date: 2006-06-07 14:26+0200\n"
+"Last-Translator: Piarres Beobide <pi@beobide.net>\n"
+"Language-Team: Euskara  <librezale@librezale.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+
+#: src/bonus.cc:110 src/game.cc:467
+msgid "Pause"
+msgstr "Pausatu"
+
+#: src/game.cc:82
+msgid "You are entering the"
+msgstr "Hemen sartzen ari zara:"
+
+#: src/game.cc:87
+msgid "Nameless Tower"
+msgstr "Izengabeko dorrea"
+
+#: src/game.cc:90
+msgid "Password:    "
+msgstr "Pasahitza:  "
+
+#: src/game.cc:294
+msgid "Time over"
+msgstr "Denbora amaitu da"
+
+#: src/game.cc:308 src/game.cc:313
+msgid "Time:"
+msgstr "Denbora:"
+
+#: src/game.cc:309 src/game.cc:314
+msgid "Technique:"
+msgstr "Teknika:"
+
+#: src/game.cc:310 src/game.cc:315
+msgid "Extra:"
+msgstr "Extra:"
+
+#: src/game.cc:311
+msgid "Lifes:"
+msgstr "Bizitzak:"
+
+#: src/keyb.cc:159
+#, c-format
+msgid "Wheee!!\n"
+msgstr "Wheee!!\n"
+
+#: src/leveledit.cc:103 src/menu.cc:978
+msgid "Quit"
+msgstr "Utzi"
+
+#: src/leveledit.cc:103
+msgid "Move up"
+msgstr "Gora mugitu"
+
+#: src/leveledit.cc:103
+msgid "Move down"
+msgstr "Behera mugitu"
+
+#: src/leveledit.cc:103
+msgid "Move left"
+msgstr "Ezkerrera mugitu"
+
+#: src/leveledit.cc:104
+msgid "Move right"
+msgstr "Eskuinera mugitu"
+
+#: src/leveledit.cc:104
+msgid "Insert row"
+msgstr "Lerroa txertatu"
+
+#: src/leveledit.cc:104
+msgid "Delete row"
+msgstr "Lerroa ezabatu"
+
+#: src/leveledit.cc:104
+msgid "Rotate 180"
+msgstr "180 Biratu"
+
+#: src/leveledit.cc:105
+msgid "Put space"
+msgstr "Lekua ipini"
+
+#: src/leveledit.cc:105
+msgid "Put step"
+msgstr "Pausua ipini"
+
+#: src/leveledit.cc:105
+msgid "Put vanisher"
+msgstr "Suntsitzailea ipini"
+
+#: src/leveledit.cc:105
+msgid "Put slider left"
+msgstr "Ezkerreko barra ipini"
+
+#: src/leveledit.cc:106
+msgid "Put slider right"
+msgstr "Eskuineko barra ipini"
+
+#: src/leveledit.cc:107
+msgid "Put door"
+msgstr "Atea ipini"
+
+#: src/leveledit.cc:107
+msgid "Put goal"
+msgstr "Helmuga ipini"
+
+#: src/leveledit.cc:107
+msgid "Check tower"
+msgstr "Dorrea arakatu"
+
+#: src/leveledit.cc:107
+msgid "Put rolling ball"
+msgstr "Bola mugikor bat ipini"
+
+#: src/leveledit.cc:108
+msgid "Put jumping ball moving"
+msgstr "Bola saltatzaile eta mugikor bat ipini"
+
+#: src/leveledit.cc:108
+msgid "Put jumping ball"
+msgstr "Bola saltatzaile bat ipini"
+
+#: src/leveledit.cc:108
+msgid "Put robot up down"
+msgstr "Gora-behera errobota ipini"
+
+#: src/leveledit.cc:108
+msgid "Put robot up down fast"
+msgstr "Gora behera errobot bizkorra ipini"
+
+#: src/leveledit.cc:109
+msgid "Put robot left right"
+msgstr "Ezker eskuin errobota ipini"
+
+#: src/leveledit.cc:109
+msgid "Put robot left right fast"
+msgstr "Ezker eskuin errobot bizkorra ipini"
+
+#: src/leveledit.cc:109
+msgid "Put lift"
+msgstr "Igogailua ipini"
+
+#: src/leveledit.cc:109
+msgid "Lift middle stop"
+msgstr "Igogailu erdiko geldiunea"
+
+#: src/leveledit.cc:110
+msgid "Lift top stop"
+msgstr "Igogailu goiko geldiunea"
+
+#: src/leveledit.cc:110
+msgid "Put pillar"
+msgstr "Zutabe bat ipini"
+
+#: src/leveledit.cc:110
+msgid "Put box"
+msgstr "Kutxa bat ipini"
+
+#: src/leveledit.cc:110
+msgid "Load tower"
+msgstr "Dorrea kargatu"
+
+#: src/leveledit.cc:111
+msgid "Save tower"
+msgstr "Dorrea gorde"
+
+#: src/leveledit.cc:111
+msgid "Test tower"
+msgstr "Dorrea probatu"
+
+#: src/leveledit.cc:111
+msgid "Set tower color"
+msgstr "Dorre kolorea ezarri"
+
+#: src/leveledit.cc:111
+msgid "Increase time"
+msgstr "Denbora gehitu"
+
+#: src/leveledit.cc:112
+msgid "Decrease time"
+msgstr "Denbora gutxitu"
+
+#: src/leveledit.cc:112
+msgid "Create mission"
+msgstr "Misioa sortu"
+
+#: src/leveledit.cc:112
+msgid "Move page up"
+msgstr "Orriz gora aldatua"
+
+#: src/leveledit.cc:112
+msgid "Move page down"
+msgstr "Orriz behera aldatu"
+
+#: src/leveledit.cc:113
+msgid "Go to start"
+msgstr "Hasierara Joan"
+
+#: src/leveledit.cc:113
+msgid "Show this help"
+msgstr "Laguntza hau bistarazi"
+
+#: src/leveledit.cc:113
+msgid "Name the tower"
+msgstr "Dorre izena"
+
+#: src/leveledit.cc:113
+msgid "Set tower time"
+msgstr "Dorre denbora ezarri"
+
+#: src/leveledit.cc:114
+msgid "Record demo"
+msgstr "Demoa grabatu"
+
+#: src/leveledit.cc:114
+msgid "Play demo"
+msgstr "Demoa erreproduzitu"
+
+#: src/leveledit.cc:114
+msgid "Adjust tower height"
+msgstr "Dorre altuera doitu"
+
+#: src/leveledit.cc:114
+msgid "Go to end"
+msgstr "Amaierara Joan"
+
+#: src/leveledit.cc:115
+msgid "Cut row"
+msgstr "Lerroa ebaki"
+
+#: src/leveledit.cc:115
+msgid "Paste row"
+msgstr "Lerro itsatsi"
+
+#: src/leveledit.cc:115
+msgid "Change robot type"
+msgstr "Errobot mota aldatu"
+
+#: src/leveledit.cc:191
+msgid "Tower changed, really quit"
+msgstr "Dorrea aldatu egin da, benetan utzi"
+
+#: src/leveledit.cc:201
+msgid "Tower changed, really load"
+msgstr "Dorrea aldatu egin da, benetan kargatu"
+
+#: src/leveledit.cc:218
+msgid "Red"
+msgstr "Gorria"
+
+#: src/leveledit.cc:218
+msgid "Green"
+msgstr "Berdea"
+
+#: src/leveledit.cc:218
+msgid "Blue"
+msgstr "Urdina"
+
+#: src/leveledit.cc:227
+msgid "Tower Color"
+msgstr "Dorre Kolorea"
+
+#: src/leveledit.cc:309
+msgid "No problems found"
+msgstr "Ez da arazorik aurkitu"
+
+#: src/leveledit.cc:310
+msgid "No starting step"
+msgstr "Ez dago hasiera pausorik"
+
+#: src/leveledit.cc:311
+msgid "Start is blocked"
+msgstr "Hasiera blokeaturik dago"
+
+#: src/leveledit.cc:312
+msgid "Unknown block"
+msgstr "Bloke Ezezaguna"
+
+#: src/leveledit.cc:313
+msgid "No elevator stop"
+msgstr "Ez dago igogailu geralekurik"
+
+#: src/leveledit.cc:314
+msgid "Elevator is blocked"
+msgstr "Igogailua blokeaturik dago"
+
+#: src/leveledit.cc:315
+msgid "No opposing doorway"
+msgstr "Ez dago pareko ataririk"
+
+#: src/leveledit.cc:316
+msgid "Broken doorway"
+msgstr "Apurturiko ataria"
+
+#: src/leveledit.cc:317
+msgid "No exit"
+msgstr "Ez dago irteerarik"
+
+#: src/leveledit.cc:318
+msgid "Exit is unreachable"
+msgstr "Ezin da irteerara ailatu"
+
+#: src/leveledit.cc:319
+msgid "Not enough time"
+msgstr "ez dago behar adina denborarik"
+
+#: src/leveledit.cc:320
+msgid "Tower is too short"
+msgstr "Dorrea laburregia da"
+
+#: src/leveledit.cc:321
+msgid "Tower has no name"
+msgstr "Dorreak ez du izenik"
+
+#: src/leveledit.cc:329
+msgid "Tower check:"
+msgstr "Dorre egiaztapena:"
+
+#: src/leveledit.cc:355 src/leveledit.cc:370 src/leveledit.cc:391
+msgid "Mission creation"
+msgstr "Misio sorrera"
+
+#: src/leveledit.cc:356
+msgid "enter mission name"
+msgstr "misio izena idatzi"
+
+#: src/leveledit.cc:357
+msgid "empty to abort"
+msgstr "hustu uztean"
+
+#: src/leveledit.cc:372
+msgid "could not create file"
+msgstr "ezin da fitxategia sortu"
+
+#: src/leveledit.cc:373
+msgid "aborting"
+msgstr "uzten"
+
+#: src/leveledit.cc:392
+msgid "enter name of"
+msgstr "idatzi"
+
+#: src/leveledit.cc:394
+#, fuzzy
+msgid "tower no "
+msgstr "dorrearen izena"
+
+#: src/leveledit.cc:414
+msgid "Editor Key Help"
+msgstr "Gako Editore Laguntza"
+
+#: src/leveledit.cc:529
+msgid "cut#"
+msgstr "moztu#"
+
+#: src/leveledit.cc:567
+#, c-format
+msgid "key: %s, char: %c, action: %i\n"
+msgstr "gakoa: %s, kar: %c, ekintza: %i\n"
+
+#: src/leveledit.cc:699
+msgid "Load tower:"
+msgstr "Dorrea kargatu:"
+
+#: src/leveledit.cc:718
+msgid "Save tower:"
+msgstr "Dorrea gorde:"
+
+#: src/leveledit.cc:772
+msgid "No recorded demo"
+msgstr "Ez da demorik grabatu"
+
+#: src/leveledit.cc:813
+msgid "Enter tower time:"
+msgstr "Dorre denbora idatzi:"
+
+#: src/leveledit.cc:827
+msgid "Adjust tower height:"
+msgstr "Dorre altuera doitu:"
+
+#: src/leveledit.cc:907
+msgid "Name the tower:"
+msgstr "Dorrearen izena:"
+
+#: src/main.cc:37
+#, c-format
+msgid ""
+"\n"
+"\tOptions:\n"
+"\n"
+"  -f\tEnable fullscreen mode\n"
+"  -s\tSilence, disable all sound\n"
+"  -dX\tSet debug level to X  (default: %i)\n"
+msgstr ""
+"\n"
+"\tAukerak:\n"
+"\n"
+"  -f\tPantaila oso modua gaitu\n"
+"  -s\tIsiltasuna, soinu guztiak ezgaitu\n"
+"  -dX\tArazpen maila X bezala ezarri (lehenetsia: %i)\n"
+
+#: src/main.cc:47
+#, c-format
+msgid "Debug level is now %c.\n"
+msgstr "Arazpen maila orain %c da.\n"
+
+#: src/main.cc:49
+#, c-format
+msgid "Illegal debug level value, using default.\n"
+msgstr "Arazpen maila balio okerra, lehenetsia erabiltzen.\n"
+
+#: src/main.cc:98
+#, c-format
+msgid "Nebulus version %s"
+msgstr "Nebulus %s bertsioa"
+
+#: src/main.cc:113
+#, c-format
+msgid "Thanks for playing!\n"
+msgstr "Milesker jolasteagatik!\n"
+
+#: src/menu.cc:70
+msgid "Extra Life"
+msgstr "Bizitza gehigarria"
+
+#: src/menu.cc:75
+msgid "+200 Points"
+msgstr "+200 Puntu"
+
+#: src/menu.cc:93
+msgid "Up"
+msgstr "Gora"
+
+#: src/menu.cc:93
+msgid "Down"
+msgstr "Behera"
+
+#: src/menu.cc:93
+msgid "Left"
+msgstr "Ezker"
+
+#: src/menu.cc:93
+msgid "Right"
+msgstr "Eskuin"
+
+#: src/menu.cc:93
+msgid "Fire"
+msgstr "Sua"
+
+#: src/menu.cc:143
+msgid "Password: "
+msgstr "Pasahitza: "
+
+#: src/menu.cc:147
+msgid "Status on top"
+msgstr "Egoera bistan"
+
+#: src/menu.cc:162
+msgid "Lives: "
+msgstr "Bizitzak"
+
+#: src/menu.cc:188
+msgid "Game Speed:"
+msgstr "Joku Abiadura: "
+
+#: src/menu.cc:212
+msgid "Bonus"
+msgstr "Bonoak"
+
+#: src/menu.cc:227
+msgid "Game Options"
+msgstr "Joku Aukerak"
+
+#: src/menu.cc:238 src/menu.cc:258 src/menu.cc:487 src/menu.cc:511
+#: src/menu.cc:535 src/menu.cc:683
+msgid "Back"
+msgstr "Atzera"
+
+#: src/menu.cc:249 src/menu.cc:264
+msgid "Redefine Keys"
+msgstr "Teklak berrezarri"
+
+#: src/menu.cc:269
+msgid "Fullscreen"
+msgstr "Pantaila osoa"
+
+#: src/menu.cc:287
+msgid "Sounds"
+msgstr "Soinuak"
+
+#: src/menu.cc:313
+msgid "Music"
+msgstr "Musika"
+
+#: src/menu.cc:356
+msgid "Font alpha"
+msgstr "Alpha letra tipoa"
+
+#: src/menu.cc:373
+msgid "Sprites alpha"
+msgstr "Alph \"Sprite\"-ak"
+
+#: src/menu.cc:390
+msgid "Scroller alpha"
+msgstr "Alpha barra"
+
+#: src/menu.cc:407
+msgid "Shadowing"
+msgstr "Itzalak"
+
+#: src/menu.cc:440
+msgid "Nonreflecting waves"
+msgstr "Erreflexu gabeko olatuak"
+
+#: src/menu.cc:441
+msgid "Simple waves"
+msgstr "Olatu sinpleak"
+
+#: src/menu.cc:442
+msgid "Expensive waves"
+msgstr "Olatu handiak"
+
+#: src/menu.cc:443
+msgid "Error"
+msgstr "Errorea"
+
+#: src/menu.cc:452
+msgid "Complete Scroller"
+msgstr "Barra osoa"
+
+#: src/menu.cc:453
+msgid "2 layers Scoller"
+msgstr "2 inguruneko barra"
+
+#: src/menu.cc:458
+msgid "Shadows"
+msgstr ""
+
+#: src/menu.cc:474
+msgid "Alpha Options"
+msgstr "Alpha Aukerak"
+
+#: src/menu.cc:497
+msgid "Graphics"
+msgstr "Grafikoak"
+
+#: src/menu.cc:521
+msgid "Options"
+msgstr "Aukerak"
+
+#: src/menu.cc:657
+msgid "HighScores"
+msgstr "PuntuazioHandienak"
+
+#: src/menu.cc:661
+#, fuzzy
+msgid "Scores for"
+msgstr "puntuazioa"
+
+#: src/menu.cc:685
+msgid "OK"
+msgstr "Ados"
+
+#: src/menu.cc:701
+msgid ""
+"Congratulations! You are\n"
+"probably good enough to\n"
+"enter the highscore table!"
+msgstr ""
+"Zorionak! Ziurrenik\n"
+"aski Puntuazio handien\n"
+"taulara sartzeko!"
+
+#: src/menu.cc:726
+msgid "Please enter your name"
+msgstr "Mesedez idatzi zure izena"
+
+#: src/menu.cc:775
+msgid ""
+"This mission contains\n"
+"unknown building blocks.\n"
+"You probably need a new\n"
+"version of Tower Toppler.\n"
+"Do you want to continue?"
+msgstr ""
+"Misio honek eraikitze\n"
+"bloke ezezagunak ditu.\n"
+"Ziurrenik \"Tower Toppler\"\n"
+"bertsio berriago bat behar\n"
+"duzu. Jarraitu nahi al duzu?"
+
+#: src/menu.cc:832
+msgid "Hunt the Fish"
+msgstr "Arraina Eizatu"
+
+#: src/menu.cc:855
+msgid "Start:"
+msgstr "Hasi:"
+
+#: src/menu.cc:864
+msgid "Highscores"
+msgstr "Puntuazio altuenak"
+
+#: src/menu.cc:874
+msgid "Level Editor"
+msgstr "Maila Editorea"
+
+#: src/menu.cc:927
+msgid "Return to Game"
+msgstr "Jokura Itzuli"
+
+#: src/menu.cc:936
+msgid "Quit Game"
+msgstr "Jokua utzi"
+
+#: src/menu.cc:943
+msgid "DEBUG MENU"
+msgstr "ARAZPEN MENUA"
+
+#: src/menu.cc:948
+msgid "Back to Game"
+msgstr "Jokura itzuli"
+
+#: src/menusys.cc:380
+msgid "Press fire"
+msgstr "Sua sakatu"
+
+#: src/menusys.cc:380
+msgid "Press space"
+msgstr "Zuiriunea sakatu"
+
+#: src/menusys.cc:539
+msgid "Yes"
+msgstr "Bai"
+
+#: src/menusys.cc:549
+msgid "No"
+msgstr "Ez"
+
+#: src/screen.cc:2016
+msgid "REC"
+msgstr "GRABATU"
+
+#: src/screen.cc:2017
+msgid "DEMO"
+msgstr "DEMO"
+
+#: _build/nms_m1.txt:1
+msgid "Mission 1"
+msgstr "1 Misioa"
+
+#: _build/nms_m1.txt:3
+msgid "Tower of eyes"
+msgstr "Begietako Dorrea"
+
+#: _build/nms_m1.txt:5
+msgid "Realm of robots"
+msgstr "Errobot erresuma"
+
+#: _build/nms_m1.txt:7
+msgid "Trap of tricks"
+msgstr "Azpijoko tranpa"
+
+#: _build/nms_m1.txt:9
+msgid "Slippery slide"
+msgstr "Alde irristakorra"
+
+#: _build/nms_m1.txt:11
+msgid "Broken path"
+msgstr "Bide apurtua"
+
+#: _build/nms_m1.txt:13
+msgid "Swimmers delight"
+msgstr "Igerileku atsegina"
+
+#: _build/nms_m1.txt:15
+msgid "Nasty one"
+msgstr "Itsusi bat"
+
+#: _build/nms_m1.txt:17
+msgid "Edge of doom"
+msgstr "hondamendi ertza"
+
+#: _build/nms_m2.txt:1
+msgid "Mission 2"
+msgstr "2 Misioa"
+
+#: _build/nms_m2.txt:3
+msgid "Blink of the eye"
+msgstr "Begi Keinua"
+
+#: _build/nms_m2.txt:5
+msgid "Robot's heaven"
+msgstr "Errobot zerua"
+
+#: _build/nms_m2.txt:7
+msgid "Trick of traps"
+msgstr "Tranpa azpijokoa"
+
+#: _build/nms_m2.txt:9
+msgid "No man's land"
+msgstr "Landa hutsa"
+
+#: _build/nms_m2.txt:11
+msgid "Oh, *******!!"
+msgstr "Oh, *******!!"
+
+#: _build/nms_m2.txt:13
+msgid "Riddle of reason"
+msgstr "Arrazoia utzi"
+
+#: _build/nms_m2.txt:15
+msgid "Maze of mistakes"
+msgstr "Akats multzoa"
+
+#: _build/nms_m2.txt:17
+msgid "Last trump"
+msgstr "Azken garaipena"
+
+#: _build/nms_ball1.txt:1
+msgid "Ball 1"
+msgstr "Bola 1"
+
+#: _build/nms_ball1.txt:3
+msgid "Run and don't stop"
+msgstr "Lasterka egin eta ez gelditu"
+
+#: _build/nms_ball1.txt:5
+msgid "Watch your step"
+msgstr "Zure oinak begiratu"
+
+#: _build/nms_ball1.txt:7
+msgid "Short, but deadly"
+msgstr "Labur, baina hilkorra"
+
+#: _build/nms_ball1.txt:9
+msgid "The maddening"
+msgstr "Zorpena"
+
+#: _build/nms_ball1.txt:11
+msgid "Doom at every step"
+msgstr "Hondamendia pausu bakoitzean"
+
+#: _build/nms_ball1.txt:13
+msgid "Enemies everywhere"
+msgstr "Etsaiak edonon"
+
+#: _build/nms_ball1.txt:15
+msgid "You will loose"
+msgstr "Galdu duzu"
+
+#: _build/nms_ball1.txt:17
+msgid "Mind destroyer"
+msgstr "Garun deusezlea"
+
+#: _build/nms_ball2.txt:1
+msgid "Ball 2"
+msgstr "2 Bola"
+
+#: _build/nms_ball2.txt:3
+msgid "Mind Trap"
+msgstr "Adimen tranpa"
+
+#: _build/nms_ball2.txt:5
+msgid "Breaking Tower"
+msgstr "Buskatutako Dorrea"
+
+#: _build/nms_ball2.txt:7
+msgid "Great Fall"
+msgstr "Zulo Handia"
+
+#: _build/nms_ball2.txt:9
+msgid "Tower of Intrigue"
+msgstr "Azpijoko dorrea"
+
+#: _build/nms_ball2.txt:11
+msgid "Massacre"
+msgstr "Masakrea"
+
+#: _build/nms_ball2.txt:13
+msgid "Bouncing Murders"
+msgstr "Hilketa erreboteak"
+
+#: _build/nms_ball2.txt:15
+msgid "Trial and error"
+msgstr "Proba eta errorea"
+
+#: _build/nms_ball2.txt:17
+msgid "Tower of Pure Evil"
+msgstr "Deabruaren Dorrea"
+
+#: _build/nms_ball3.txt:1
+msgid "Ball 3"
+msgstr "3 Bola"
+
+#: _build/nms_ball3.txt:3
+msgid "Annoying Tower"
+msgstr "Dorre anonimoa"
+
+#: _build/nms_ball3.txt:5
+msgid "Cave of Failure"
+msgstr "Hutsaren Kobazuloa"
+
+#: _build/nms_ball3.txt:7
+msgid "Dividing path"
+msgstr "Bidea zatitzen"
+
+#: _build/nms_ball3.txt:9
+msgid "No Way Out?"
+msgstr "Ez DAgo Irteerarik?"
+
+#: _build/nms_ball3.txt:11
+msgid "Trap"
+msgstr "Tranpa"
+
+#: _build/nms_ball3.txt:13
+msgid "Tower of Mystery"
+msgstr "Misterio Dorrea"
+
+#: _build/nms_ball3.txt:15
+msgid "Slip ... and die"
+msgstr "Hutsegin ... eta hil"
+
+#: _build/nms_ball3.txt:17
+msgid "Mission Impossible"
+msgstr "Misio ezinezkoa"
+
+#: _build/nms_abc.txt:1
+msgid "ABC Towers"
+msgstr "ABC Dorreak"
+
+#: _build/nms_abc.txt:3
+msgid "Slices"
+msgstr "Atala"
+
+#: _build/nms_abc.txt:5
+msgid "Corridors"
+msgstr "Korredoreak"
+
+#: _build/nms_abc.txt:7
+msgid "Higher Ground"
+msgstr "Lur handiena"
+
+#: _build/nms_abc.txt:9
+msgid "No Icing"
+msgstr "antzigartzerik ez"
+
+#: _build/nms_abc.txt:11
+msgid "Three Layers"
+msgstr "Hiru geruza"
+
+#: _build/nms_abc.txt:13
+msgid "Two Ways"
+msgstr "Bi Bide"
+
+#: _build/nms_abc.txt:15
+msgid "Spiral"
+msgstr "Espirala"
+
+#: _build/nms_abc.txt:17
+msgid "Skygazer"
+msgstr "Izar begiralea"
+
+#: _build/nms_pasi2.txt:1
+msgid "Pasis 2 Towers"
+msgstr ""
+
+#: _build/nms_pasi2.txt:3
+msgid "Ventilation Shafts"
+msgstr ""
+
+#: _build/nms_pasi2.txt:5
+msgid "Tower 2"
+msgstr ""
+
+#: _build/nms_david1.txt:1
+msgid "Challenge 1"
+msgstr ""
+
+#: _build/nms_david1.txt:3
+msgid "Difficult jumps!"
+msgstr "Salto zailak!"
+
+#: _build/nms_david1.txt:5
+msgid "Washout"
+msgstr "Porrot"
+
+#: _build/nms_david1.txt:7
+msgid "Climbing and tricks"
+msgstr "Igoera eta azpijokoak"
+
+#: _build/nms_david1.txt:9
+msgid "Watch the robots"
+msgstr "Errobotak ikusi"
+
+#: _build/nms_david1.txt:11
+msgid "Two Halves"
+msgstr "Bi erdi"
+
+#: _build/nms_david1.txt:13
+msgid "Turning up the heat"
+msgstr "Beroa handitzen"
+
+#: _build/nms_david1.txt:15
+msgid "Confusing"
+msgstr "Nahastua"
+
+#: _build/nms_david1.txt:17
+msgid "Short but dangerous"
+msgstr "Labur baina arriskutsua"
+
+#: _build/nms_david2.txt:1
+msgid "Challenge 2"
+msgstr ""
+
+#: _build/nms_david2.txt:3
+msgid "Waves"
+msgstr ""
+
+#: _build/nms_david2.txt:5
+msgid "Dragon tower"
+msgstr ""
+
+#: _build/nms_david2.txt:7
+msgid "Hullabaloo"
+msgstr ""
+
+#: _build/nms_david2.txt:9
+msgid "Labyrinth"
+msgstr ""

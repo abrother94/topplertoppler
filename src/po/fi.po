@@ -1,0 +1,950 @@
+# translation of fi.po to fi_FI
+# translation of fi.po to Finnish
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR Andreas R?er.
+# Andreas Röver <roever@users.sf.net>, 2003, 2004.
+# basse <bastian.salmela@gmail.com>, 2004.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: fi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 22:18-0800\n"
+"PO-Revision-Date: 2004-12-17 20:11+0200\n"
+"Last-Translator: basse <bastian.salmela@hel.fi>\n"
+"Language-Team: fi_FI <fi@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+
+#: src/bonus.cc:110 src/game.cc:467
+msgid "Pause"
+msgstr "Tauko"
+
+#: src/game.cc:82
+msgid "You are entering the"
+msgstr "Saavut tornille"
+
+#: src/game.cc:87
+msgid "Nameless Tower"
+msgstr "Nimetön Torni"
+
+#: src/game.cc:90
+msgid "Password:    "
+msgstr "Salasana:   "
+
+#: src/game.cc:294
+msgid "Time over"
+msgstr "Aika loppui"
+
+#: src/game.cc:308 src/game.cc:313
+msgid "Time:"
+msgstr "Aika:"
+
+#: src/game.cc:309 src/game.cc:314
+msgid "Technique:"
+msgstr "Tekniikka:"
+
+#: src/game.cc:310 src/game.cc:315
+msgid "Extra:"
+msgstr "Extra:"
+
+#: src/game.cc:311
+msgid "Lifes:"
+msgstr "Elämiä:"
+
+#: src/keyb.cc:159
+#, c-format
+msgid "Wheee!!\n"
+msgstr "Jihuuu!!\n"
+
+#: src/leveledit.cc:103 src/menu.cc:978
+msgid "Quit"
+msgstr "Lopeta"
+
+#: src/leveledit.cc:103
+msgid "Move up"
+msgstr "Siirry ylös"
+
+#: src/leveledit.cc:103
+msgid "Move down"
+msgstr "Siirry alas"
+
+#: src/leveledit.cc:103
+msgid "Move left"
+msgstr "Siirry vasemmalle"
+
+#: src/leveledit.cc:104
+msgid "Move right"
+msgstr "Siirry oikealle"
+
+#: src/leveledit.cc:104
+msgid "Insert row"
+msgstr "Lisää rivi"
+
+#: src/leveledit.cc:104
+msgid "Delete row"
+msgstr "Poista rivi"
+
+#: src/leveledit.cc:104
+msgid "Rotate 180"
+msgstr "Kierrä 180°"
+
+#: src/leveledit.cc:105
+msgid "Put space"
+msgstr "Lisää tyhjä"
+
+#: src/leveledit.cc:105
+msgid "Put step"
+msgstr "Lisää askelma"
+
+#: src/leveledit.cc:105
+msgid "Put vanisher"
+msgstr "Lisää katoava"
+
+#: src/leveledit.cc:105
+msgid "Put slider left"
+msgstr "Lisää liuku vasemmalle"
+
+#: src/leveledit.cc:106
+msgid "Put slider right"
+msgstr "Lisää liuku oikealle"
+
+#: src/leveledit.cc:107
+msgid "Put door"
+msgstr "Lisää ovi"
+
+#: src/leveledit.cc:107
+msgid "Put goal"
+msgstr "Lisää maali"
+
+#: src/leveledit.cc:107
+msgid "Check tower"
+msgstr "Tarkita torni"
+
+#: src/leveledit.cc:107
+msgid "Put rolling ball"
+msgstr "Lisää pallo"
+
+#: src/leveledit.cc:108
+msgid "Put jumping ball moving"
+msgstr "Lisää hyppivä liikkuva pallo"
+
+#: src/leveledit.cc:108
+msgid "Put jumping ball"
+msgstr "Lisää hyppivä pallo"
+
+#: src/leveledit.cc:108
+msgid "Put robot up down"
+msgstr "Lisää ylös-alas robotti"
+
+#: src/leveledit.cc:108
+msgid "Put robot up down fast"
+msgstr "Lisää alas-nopeasti robotti"
+
+#: src/leveledit.cc:109
+msgid "Put robot left right"
+msgstr "Lisää vasen-oikea robotti"
+
+#: src/leveledit.cc:109
+msgid "Put robot left right fast"
+msgstr "Lisää oikealle nopeasti robotti"
+
+#: src/leveledit.cc:109
+msgid "Put lift"
+msgstr "Lisää hissi"
+
+#: src/leveledit.cc:109
+msgid "Lift middle stop"
+msgstr "Hissin keskiväli pysähdys"
+
+#: src/leveledit.cc:110
+msgid "Lift top stop"
+msgstr "Hissin ylin pysähdys"
+
+#: src/leveledit.cc:110
+msgid "Put pillar"
+msgstr "Lisää pilari"
+
+#: src/leveledit.cc:110
+msgid "Put box"
+msgstr "Lisää laatikko"
+
+#: src/leveledit.cc:110
+msgid "Load tower"
+msgstr "Avaa torni"
+
+#: src/leveledit.cc:111
+msgid "Save tower"
+msgstr "Tallenna torni"
+
+#: src/leveledit.cc:111
+msgid "Test tower"
+msgstr "Tarkista torni"
+
+#: src/leveledit.cc:111
+msgid "Set tower color"
+msgstr "Aseta tornin väri"
+
+#: src/leveledit.cc:111
+msgid "Increase time"
+msgstr "Lisää aikaa"
+
+#: src/leveledit.cc:112
+msgid "Decrease time"
+msgstr "Vähennä aikaa"
+
+#: src/leveledit.cc:112
+msgid "Create mission"
+msgstr "Luo tehtävä"
+
+#: src/leveledit.cc:112
+msgid "Move page up"
+msgstr "Sivu ylös"
+
+#: src/leveledit.cc:112
+msgid "Move page down"
+msgstr "Sivu alas"
+
+#: src/leveledit.cc:113
+msgid "Go to start"
+msgstr "Alkuun"
+
+#: src/leveledit.cc:113
+msgid "Show this help"
+msgstr "Näytä tämä ohje"
+
+#: src/leveledit.cc:113
+msgid "Name the tower"
+msgstr "Nimeä torni"
+
+#: src/leveledit.cc:113
+msgid "Set tower time"
+msgstr "Aseta tornin aikarajoitus"
+
+#: src/leveledit.cc:114
+msgid "Record demo"
+msgstr "Nauhoita demo"
+
+#: src/leveledit.cc:114
+msgid "Play demo"
+msgstr "Katsele demo"
+
+#: src/leveledit.cc:114
+msgid "Adjust tower height"
+msgstr "Muuta tornin korkeutta"
+
+#: src/leveledit.cc:114
+msgid "Go to end"
+msgstr "Siirry loppuun"
+
+#: src/leveledit.cc:115
+msgid "Cut row"
+msgstr "Poista rivi"
+
+#: src/leveledit.cc:115
+msgid "Paste row"
+msgstr "Lisää rivi"
+
+#: src/leveledit.cc:115
+msgid "Change robot type"
+msgstr "Vaihda robotin tyyppiä"
+
+#: src/leveledit.cc:191
+msgid "Tower changed, really quit"
+msgstr ""
+"Tornia muutettu, \n"
+"lopetatko varmasti"
+
+#: src/leveledit.cc:201
+msgid "Tower changed, really load"
+msgstr ""
+"Tornia muutettu, \n"
+"avaatko varmasti"
+
+#: src/leveledit.cc:218
+msgid "Red"
+msgstr "Punainen"
+
+#: src/leveledit.cc:218
+msgid "Green"
+msgstr "Vihreä"
+
+#: src/leveledit.cc:218
+msgid "Blue"
+msgstr "Sininen"
+
+#: src/leveledit.cc:227
+msgid "Tower Color"
+msgstr "Tornin väri"
+
+#: src/leveledit.cc:309
+msgid "No problems found"
+msgstr "Ongelmia ei löytynyt"
+
+#: src/leveledit.cc:310
+msgid "No starting step"
+msgstr "Ei aloitus askelmaa"
+
+#: src/leveledit.cc:311
+msgid "Start is blocked"
+msgstr "Aloituspiste on estetty"
+
+#: src/leveledit.cc:312
+msgid "Unknown block"
+msgstr "Tuntematon pala"
+
+#: src/leveledit.cc:313
+msgid "No elevator stop"
+msgstr "Hissillä ei ole pysähdyspaikkaa"
+
+#: src/leveledit.cc:314
+msgid "Elevator is blocked"
+msgstr "Hissin kulku on estetty"
+
+#: src/leveledit.cc:315
+msgid "No opposing doorway"
+msgstr "Ei vastapuolen ovea"
+
+#: src/leveledit.cc:316
+msgid "Broken doorway"
+msgstr "Rikkinäinen ovi"
+
+#: src/leveledit.cc:317
+msgid "No exit"
+msgstr "Ei maalia"
+
+#: src/leveledit.cc:318
+msgid "Exit is unreachable"
+msgstr "Maali on saavuttamattomissa"
+
+#: src/leveledit.cc:319
+msgid "Not enough time"
+msgstr "Ei tarpeeksi aikaa"
+
+#: src/leveledit.cc:320
+msgid "Tower is too short"
+msgstr "Torni on liian matala"
+
+#: src/leveledit.cc:321
+msgid "Tower has no name"
+msgstr "Tornilla ei ole nimeä"
+
+#: src/leveledit.cc:329
+msgid "Tower check:"
+msgstr "Tornin tarkistus:"
+
+#: src/leveledit.cc:355 src/leveledit.cc:370 src/leveledit.cc:391
+msgid "Mission creation"
+msgstr "Tehtävän luonti"
+
+#: src/leveledit.cc:356
+msgid "enter mission name"
+msgstr "anna tehtävän nimi"
+
+#: src/leveledit.cc:357
+msgid "empty to abort"
+msgstr "tyhjä keskeyttää"
+
+#: src/leveledit.cc:372
+msgid "could not create file"
+msgstr "ei voitu luoda tiedostoa"
+
+#: src/leveledit.cc:373
+msgid "aborting"
+msgstr "keskeytetään"
+
+#: src/leveledit.cc:392
+msgid "enter name of"
+msgstr "anna nimi"
+
+#: src/leveledit.cc:394
+msgid "tower no "
+msgstr "torni nro "
+
+#: src/leveledit.cc:414
+msgid "Editor Key Help"
+msgstr "Editorin näppäinohjeet"
+
+#: src/leveledit.cc:529
+msgid "cut#"
+msgstr "leikkaa#"
+
+#: src/leveledit.cc:567
+#, c-format
+msgid "key: %s, char: %c, action: %i\n"
+msgstr "näppäin: %s, merkki: %c, toiminto: %i\n"
+
+#: src/leveledit.cc:699
+msgid "Load tower:"
+msgstr "Avaa torni:"
+
+#: src/leveledit.cc:718
+msgid "Save tower:"
+msgstr "Tallenna torni:"
+
+#: src/leveledit.cc:772
+msgid "No recorded demo"
+msgstr "Ei nauhoitettua demoa"
+
+#: src/leveledit.cc:813
+msgid "Enter tower time:"
+msgstr "Anna tornin aikaraja:"
+
+#: src/leveledit.cc:827
+msgid "Adjust tower height:"
+msgstr "Määrittele tornin korkeus:"
+
+#: src/leveledit.cc:907
+msgid "Name the tower:"
+msgstr "Tornin nimi:"
+
+#: src/main.cc:37
+#, c-format
+msgid ""
+"\n"
+"\tOptions:\n"
+"\n"
+"  -f\tEnable fullscreen mode\n"
+"  -s\tSilence, disable all sound\n"
+"  -dX\tSet debug level to X  (default: %i)\n"
+msgstr ""
+"\n"
+"\tKomennot:\n"
+"\n"
+"  -f\tKokoruutu näyttö\n"
+"  -s\tÄänetön, kaikki äänet vaimennettu\n"
+"  -dX\tAseta debug taso (oletus: %i)\n"
+
+#: src/main.cc:47
+#, c-format
+msgid "Debug level is now %c.\n"
+msgstr "Debug taso on nyt %c.\n"
+
+#: src/main.cc:49
+#, c-format
+msgid "Illegal debug level value, using default.\n"
+msgstr "Laiton debug taso, otetaan oletustaso käyttöön.\n"
+
+#: src/main.cc:98
+#, c-format
+msgid "Nebulus version %s"
+msgstr "Nebulus Versio %s"
+
+#: src/main.cc:113
+#, c-format
+msgid "Thanks for playing!\n"
+msgstr "Kiitoksia pelaamisesta!\n"
+
+#: src/menu.cc:70
+msgid "Extra Life"
+msgstr "Ylimääräinen elämä"
+
+#: src/menu.cc:75
+msgid "+200 Points"
+msgstr "+200 Pistettä"
+
+#: src/menu.cc:93
+msgid "Up"
+msgstr "Ylös"
+
+#: src/menu.cc:93
+msgid "Down"
+msgstr "Alas"
+
+#: src/menu.cc:93
+msgid "Left"
+msgstr "Vasemmalle"
+
+#: src/menu.cc:93
+msgid "Right"
+msgstr "Oikealle"
+
+#: src/menu.cc:93
+msgid "Fire"
+msgstr "Ammu"
+
+#: src/menu.cc:143
+msgid "Password: "
+msgstr "Salasana: "
+
+#: src/menu.cc:147
+msgid "Status on top"
+msgstr "Tilanne ylhäällä"
+
+#: src/menu.cc:162
+msgid "Lives: "
+msgstr "Elämiä: "
+
+#: src/menu.cc:188
+msgid "Game Speed:"
+msgstr "Pelinopeus:"
+
+#: src/menu.cc:212
+msgid "Bonus"
+msgstr "Bonus"
+
+#: src/menu.cc:227
+msgid "Game Options"
+msgstr "Peli "
+
+#: src/menu.cc:238 src/menu.cc:258 src/menu.cc:487 src/menu.cc:511
+#: src/menu.cc:535 src/menu.cc:683
+msgid "Back"
+msgstr "Takaisin"
+
+#: src/menu.cc:249 src/menu.cc:264
+msgid "Redefine Keys"
+msgstr "Näppäimet"
+
+#: src/menu.cc:269
+msgid "Fullscreen"
+msgstr "Kokoruutu"
+
+#: src/menu.cc:287
+msgid "Sounds"
+msgstr "Äänet"
+
+#: src/menu.cc:313
+msgid "Music"
+msgstr ""
+
+#: src/menu.cc:356
+msgid "Font alpha"
+msgstr "Tekstin pehmennys"
+
+#: src/menu.cc:373
+msgid "Sprites alpha"
+msgstr "Grafiikan pehmennys"
+
+#: src/menu.cc:390
+msgid "Scroller alpha"
+msgstr "Taustan läpinäkyvyys"
+
+#: src/menu.cc:407
+msgid "Shadowing"
+msgstr "Varjostus"
+
+#: src/menu.cc:440
+msgid "Nonreflecting waves"
+msgstr "Heijastamaton vesi"
+
+#: src/menu.cc:441
+msgid "Simple waves"
+msgstr "Yksinkertainen vesi"
+
+#: src/menu.cc:442
+msgid "Expensive waves"
+msgstr "Hieno vesi"
+
+#: src/menu.cc:443
+msgid "Error"
+msgstr "Virhe"
+
+#: src/menu.cc:452
+msgid "Complete Scroller"
+msgstr "Täydellinen tausta"
+
+#: src/menu.cc:453
+msgid "2 layers Scoller"
+msgstr "2-tason tausta"
+
+#: src/menu.cc:458
+msgid "Shadows"
+msgstr "Varjot"
+
+#: src/menu.cc:474
+msgid "Alpha Options"
+msgstr "Erikoisefektit"
+
+#: src/menu.cc:497
+msgid "Graphics"
+msgstr "Grafiikka"
+
+#: src/menu.cc:521
+msgid "Options"
+msgstr "Asetukset"
+
+#: src/menu.cc:657
+msgid "HighScores"
+msgstr "Pistetaulukko"
+
+#: src/menu.cc:661
+msgid "Scores for"
+msgstr "Pisteitä"
+
+#: src/menu.cc:685
+msgid "OK"
+msgstr "Ok"
+
+#: src/menu.cc:701
+msgid ""
+"Congratulations! You are\n"
+"probably good enough to\n"
+"enter the highscore table!"
+msgstr ""
+"Onneksi olkoon! Olet\n"
+"todennäköisesti tarpeeksi\n"
+"hyvä päästäksesi\n"
+"pistetaululle!"
+
+#: src/menu.cc:726
+msgid "Please enter your name"
+msgstr "Kirjoita nimesi"
+
+#: src/menu.cc:775
+msgid ""
+"This mission contains\n"
+"unknown building blocks.\n"
+"You probably need a new\n"
+"version of Tower Toppler.\n"
+"Do you want to continue?"
+msgstr ""
+"Tämä tehtävä sisältää\n"
+"tuntemattomia palikoita.\n"
+"Luultavasti tarvitset\n"
+"uudemman version\n"
+"Tower Topplerista\n"
+". Haluatko jatkaa?"
+
+#: src/menu.cc:832
+msgid "Hunt the Fish"
+msgstr "Metsästä kaloja"
+
+#: src/menu.cc:855
+msgid "Start:"
+msgstr "Aloita:"
+
+#: src/menu.cc:864
+msgid "Highscores"
+msgstr "Pistetaulukko"
+
+#: src/menu.cc:874
+msgid "Level Editor"
+msgstr "Taso editori"
+
+#: src/menu.cc:927
+msgid "Return to Game"
+msgstr "Palaa peliin"
+
+#: src/menu.cc:936
+msgid "Quit Game"
+msgstr "Lopeta peli"
+
+#: src/menu.cc:943
+msgid "DEBUG MENU"
+msgstr "DEBUG VALIKKO"
+
+#: src/menu.cc:948
+msgid "Back to Game"
+msgstr "Takaisin peliin"
+
+#: src/menusys.cc:380
+msgid "Press fire"
+msgstr "Paina 'ammu'"
+
+#: src/menusys.cc:380
+msgid "Press space"
+msgstr "Paina välilyöntiä"
+
+#: src/menusys.cc:539
+msgid "Yes"
+msgstr "Kyllä"
+
+#: src/menusys.cc:549
+msgid "No"
+msgstr "Ei"
+
+#: src/screen.cc:2016
+msgid "REC"
+msgstr "REC"
+
+#: src/screen.cc:2017
+msgid "DEMO"
+msgstr "DEMO"
+
+#: _build/nms_m1.txt:1
+msgid "Mission 1"
+msgstr "Tehtävä 1"
+
+#: _build/nms_m1.txt:3
+msgid "Tower of eyes"
+msgstr "Silmien torni"
+
+#: _build/nms_m1.txt:5
+msgid "Realm of robots"
+msgstr "Robottien valtakunta"
+
+#: _build/nms_m1.txt:7
+msgid "Trap of tricks"
+msgstr "Temppuansa"
+
+#: _build/nms_m1.txt:9
+msgid "Slippery slide"
+msgstr "Liukas Lätkä"
+
+#: _build/nms_m1.txt:11
+msgid "Broken path"
+msgstr "Rikkonainen reitti"
+
+#: _build/nms_m1.txt:13
+msgid "Swimmers delight"
+msgstr "Uimarin ilahdus"
+
+#: _build/nms_m1.txt:15
+msgid "Nasty one"
+msgstr "Inhottava"
+
+#: _build/nms_m1.txt:17
+msgid "Edge of doom"
+msgstr "Turmion reuna"
+
+#: _build/nms_m2.txt:1
+msgid "Mission 2"
+msgstr "Tehtävä 2"
+
+#: _build/nms_m2.txt:3
+msgid "Blink of the eye"
+msgstr "Silmänräpäys"
+
+#: _build/nms_m2.txt:5
+msgid "Robot's heaven"
+msgstr "Robottien taivas"
+
+#: _build/nms_m2.txt:7
+msgid "Trick of traps"
+msgstr ""
+
+#: _build/nms_m2.txt:9
+msgid "No man's land"
+msgstr "Ei-kenenkään-maa"
+
+#: _build/nms_m2.txt:11
+msgid "Oh, *******!!"
+msgstr "Voi, *******!!"
+
+#: _build/nms_m2.txt:13
+msgid "Riddle of reason"
+msgstr "Syyn arvoitus"
+
+#: _build/nms_m2.txt:15
+msgid "Maze of mistakes"
+msgstr "Virheiden sokkelo"
+
+#: _build/nms_m2.txt:17
+msgid "Last trump"
+msgstr "Viimeinen valtti"
+
+#: _build/nms_ball1.txt:1
+msgid "Ball 1"
+msgstr "Pallo 1"
+
+#: _build/nms_ball1.txt:3
+msgid "Run and don't stop"
+msgstr "Juokse äläkä pysähdy"
+
+#: _build/nms_ball1.txt:5
+msgid "Watch your step"
+msgstr "Varo askeleitasi"
+
+#: _build/nms_ball1.txt:7
+msgid "Short, but deadly"
+msgstr "Lyhyt mutta tappava"
+
+#: _build/nms_ball1.txt:9
+msgid "The maddening"
+msgstr "Raivostuttava"
+
+#: _build/nms_ball1.txt:11
+msgid "Doom at every step"
+msgstr "Turmio jokaisella askeleella"
+
+#: _build/nms_ball1.txt:13
+msgid "Enemies everywhere"
+msgstr "Vihollisia kaikkialla"
+
+#: _build/nms_ball1.txt:15
+msgid "You will loose"
+msgstr "Tulet häviämään"
+
+#: _build/nms_ball1.txt:17
+msgid "Mind destroyer"
+msgstr "Tajunnanräjäyttäjä"
+
+#: _build/nms_ball2.txt:1
+msgid "Ball 2"
+msgstr "Pallo 2"
+
+#: _build/nms_ball2.txt:3
+msgid "Mind Trap"
+msgstr "Aivoansa"
+
+#: _build/nms_ball2.txt:5
+msgid "Breaking Tower"
+msgstr "Mureneva torni"
+
+#: _build/nms_ball2.txt:7
+msgid "Great Fall"
+msgstr "Suuri pudotus"
+
+#: _build/nms_ball2.txt:9
+msgid "Tower of Intrigue"
+msgstr "Juonittelun torni"
+
+#: _build/nms_ball2.txt:11
+msgid "Massacre"
+msgstr "Verilöyly"
+
+#: _build/nms_ball2.txt:13
+msgid "Bouncing Murders"
+msgstr "Pomppivat murhat"
+
+#: _build/nms_ball2.txt:15
+msgid "Trial and error"
+msgstr "Yritys ja erehdys"
+
+#: _build/nms_ball2.txt:17
+msgid "Tower of Pure Evil"
+msgstr "Silkkaa pahuutta"
+
+#: _build/nms_ball3.txt:1
+msgid "Ball 3"
+msgstr "Pallo 3"
+
+#: _build/nms_ball3.txt:3
+msgid "Annoying Tower"
+msgstr "Ärsyttävyyden torni"
+
+#: _build/nms_ball3.txt:5
+msgid "Cave of Failure"
+msgstr "Epäonnisen luola"
+
+#: _build/nms_ball3.txt:7
+msgid "Dividing path"
+msgstr "Haarautuva polku"
+
+#: _build/nms_ball3.txt:9
+msgid "No Way Out?"
+msgstr "Ei ulospääsyä?"
+
+#: _build/nms_ball3.txt:11
+msgid "Trap"
+msgstr "Ansa"
+
+#: _build/nms_ball3.txt:13
+msgid "Tower of Mystery"
+msgstr "Mystinen torni"
+
+#: _build/nms_ball3.txt:15
+msgid "Slip ... and die"
+msgstr "Liukastu ... ja kuole"
+
+#: _build/nms_ball3.txt:17
+msgid "Mission Impossible"
+msgstr "Mahdoton tehtävä"
+
+#: _build/nms_abc.txt:1
+msgid "ABC Towers"
+msgstr "ABC tornit"
+
+#: _build/nms_abc.txt:3
+msgid "Slices"
+msgstr "Siivut"
+
+#: _build/nms_abc.txt:5
+msgid "Corridors"
+msgstr "Käytävät"
+
+#: _build/nms_abc.txt:7
+msgid "Higher Ground"
+msgstr "Ylämailla"
+
+#: _build/nms_abc.txt:9
+msgid "No Icing"
+msgstr "Kuorruttamaton"
+
+#: _build/nms_abc.txt:11
+msgid "Three Layers"
+msgstr "Kolme kerrosta"
+
+#: _build/nms_abc.txt:13
+msgid "Two Ways"
+msgstr "Kaksi tapaa"
+
+#: _build/nms_abc.txt:15
+msgid "Spiral"
+msgstr "Spiraali"
+
+#: _build/nms_abc.txt:17
+msgid "Skygazer"
+msgstr "Taivaisiintuijottaja"
+
+#: _build/nms_pasi2.txt:1
+msgid "Pasis 2 Towers"
+msgstr ""
+
+#: _build/nms_pasi2.txt:3
+msgid "Ventilation Shafts"
+msgstr "Ilmanvaihtokanavat"
+
+#: _build/nms_pasi2.txt:5
+msgid "Tower 2"
+msgstr "Torni 2"
+
+#: _build/nms_david1.txt:1
+msgid "Challenge 1"
+msgstr "Haaste 1"
+
+#: _build/nms_david1.txt:3
+msgid "Difficult jumps!"
+msgstr "Hankalat hypyt!"
+
+#: _build/nms_david1.txt:5
+msgid "Washout"
+msgstr "Huuhtelu"
+
+#: _build/nms_david1.txt:7
+msgid "Climbing and tricks"
+msgstr "Kiipeilyä ja temppuja"
+
+#: _build/nms_david1.txt:9
+msgid "Watch the robots"
+msgstr "Tarkkana robottien kanssa"
+
+#: _build/nms_david1.txt:11
+msgid "Two Halves"
+msgstr "Kaksi puoliskoa"
+
+#: _build/nms_david1.txt:13
+msgid "Turning up the heat"
+msgstr "Nostetaan lämpöä"
+
+#: _build/nms_david1.txt:15
+msgid "Confusing"
+msgstr "Hämmennys"
+
+#: _build/nms_david1.txt:17
+msgid "Short but dangerous"
+msgstr "Lyhyt mutta vaarallinen"
+
+#: _build/nms_david2.txt:1
+msgid "Challenge 2"
+msgstr "Haaste 2"
+
+#: _build/nms_david2.txt:3
+msgid "Waves"
+msgstr "Aallot"
+
+#: _build/nms_david2.txt:5
+msgid "Dragon tower"
+msgstr "Lohikäärmetorni"
+
+#: _build/nms_david2.txt:7
+msgid "Hullabaloo"
+msgstr "Hulabaloo"
+
+#: _build/nms_david2.txt:9
+msgid "Labyrinth"
+msgstr "Sokkelo"
