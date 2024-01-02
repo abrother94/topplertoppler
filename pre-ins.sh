@@ -1,3 +1,4 @@
+#https://cdimage.debian.org/cdimage/archive/11.8.0/amd64/iso-dvd/debian-11.8.0-amd64-DVD-1.iso 
 sudo apt-get update
 sudo apt-get install povray
 sudo apt-get install putty 
